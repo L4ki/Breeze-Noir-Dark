@@ -1,0 +1,2310 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   width="42.272942"
+   height="33.600056"
+   sodipodi:docname="lineedit.svg"
+   inkscape:output_extension="org.inkscape.output.svgz.inkscape"
+   inkscape:export-filename="/home/pinheiro/Documents/pics/estilo/plasma/wether.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90"
+   version="1.0">
+  <sodipodi:namedview
+     inkscape:window-height="1017"
+     inkscape:window-width="1920"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="1"
+     guidetolerance="10.0"
+     gridtolerance="10.0"
+     objecttolerance="10.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base"
+     inkscape:zoom="5.9296872"
+     inkscape:cx="-36.397901"
+     inkscape:cy="17.056898"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:current-layer="svg2"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:snap-guide="false"
+     inkscape:snap-bbox="true"
+     inkscape:object-paths="true"
+     inkscape:bbox-nodes="false"
+     inkscape:snap-global="true"
+     inkscape:object-nodes="true"
+     inkscape:window-maximized="1">
+    <inkscape:grid
+       enabled="true"
+       visible="true"
+       id="grid5592"
+       type="xygrid"
+       empspacing="5"
+       snapvisiblegridlinesonly="true"
+       originx="0"
+       originy="1.4652445e-06" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs5">
+    <linearGradient
+       id="linearGradient4243">
+      <stop
+         style="stop-color:#006A80;stop-opacity:1;"
+         offset="0"
+         id="stop4245" />
+      <stop
+         style="stop-color:#006A80;stop-opacity:0;"
+         offset="1"
+         id="stop4247" />
+    </linearGradient>
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       y2="3.120784"
+       x2="16.259964"
+       y1="24.121313"
+       x1="16.292894"
+       id="linearGradient20004"
+       xlink:href="#linearGradient5325-5"
+       inkscape:collect="always" />
+    <linearGradient
+       id="linearGradient5325-5">
+      <stop
+         id="stop5327-9"
+         offset="0"
+         style="stop-color:#2d3236;stop-opacity:1" />
+      <stop
+         id="stop5329-4"
+         offset="1"
+         style="stop-color:#364349;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       y2="-16.296091"
+       x2="3.0666339"
+       y1="-16.296091"
+       x1="24.066633"
+       id="linearGradient10189"
+       xlink:href="#linearGradient5325-5"
+       inkscape:collect="always" />
+    <linearGradient
+       y2="-13.5"
+       x2="18"
+       y1="-13.5"
+       x1="5"
+       gradientTransform="translate(2.0671707,0.70577206)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient5337"
+       xlink:href="#linearGradient6803"
+       inkscape:collect="always" />
+    <linearGradient
+       id="linearGradient6803">
+      <stop
+         style="stop-color:#485a61;stop-opacity:1"
+         offset="0"
+         id="stop6805" />
+      <stop
+         style="stop-color:#485a61;stop-opacity:0.302"
+         offset="1"
+         id="stop6807" />
+    </linearGradient>
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       y2="3.120784"
+       x2="16.302582"
+       y1="24.120785"
+       x1="16.302582"
+       id="linearGradient10203"
+       xlink:href="#linearGradient5325-5"
+       inkscape:collect="always" />
+    <linearGradient
+       y2="22"
+       x2="14.010755"
+       y1="18"
+       x1="14"
+       gradientTransform="translate(-0.69635198,2.1213203)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient5335"
+       xlink:href="#linearGradient4679"
+       inkscape:collect="always" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4679">
+      <stop
+         style="stop-color:#485a61;stop-opacity:0.302"
+         offset="0"
+         id="stop4681" />
+      <stop
+         style="stop-color:#485a61;stop-opacity:0"
+         offset="1"
+         id="stop4683" />
+    </linearGradient>
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       y2="3.120784"
+       x2="44.259964"
+       y1="24.120785"
+       x1="44.259964"
+       id="linearGradient10219"
+       xlink:href="#linearGradient5325-5"
+       inkscape:collect="always" />
+    <linearGradient
+       y2="22"
+       x2="47"
+       y1="18"
+       x1="47"
+       gradientTransform="translate(-0.70710675,2.1213203)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient5333"
+       xlink:href="#linearGradient4679"
+       inkscape:collect="always" />
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       y2="-44.269394"
+       x2="3.0666339"
+       y1="-44.269394"
+       x1="24.066633"
+       id="linearGradient10211"
+       xlink:href="#linearGradient5325-5"
+       inkscape:collect="always" />
+    <linearGradient
+       y2="-47.5"
+       x2="18"
+       y1="-47.5"
+       x1="5"
+       gradientTransform="translate(2.0671707,0.67785166)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient5331"
+       xlink:href="#linearGradient6803"
+       inkscape:collect="always" />
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       y2="3.120784"
+       x2="45.259964"
+       y1="24.120785"
+       x1="45.259964"
+       id="linearGradient20012"
+       xlink:href="#linearGradient5325-5"
+       inkscape:collect="always" />
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       y2="3.120784"
+       x2="25.259964"
+       y1="24.120785"
+       x1="25.259964"
+       id="linearGradient19996"
+       xlink:href="#linearGradient5325-5"
+       inkscape:collect="always" />
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       y2="46.433441"
+       x2="-45.782894"
+       y1="67.958588"
+       x1="-45.782894"
+       id="linearGradient10235"
+       xlink:href="#linearGradient5325-5"
+       inkscape:collect="always" />
+    <linearGradient
+       gradientTransform="matrix(1,0,0,0.60650983,-4.9999995,-0.84820113)"
+       gradientUnits="userSpaceOnUse"
+       y2="-54.000534"
+       x2="26"
+       y1="-33.000534"
+       x1="26"
+       id="linearGradient10227"
+       xlink:href="#linearGradient5325-5"
+       inkscape:collect="always" />
+    <linearGradient
+       id="linearGradient6803-8">
+      <stop
+         id="stop6805-7"
+         offset="0"
+         style="stop-color:#485a61;stop-opacity:1" />
+      <stop
+         id="stop6807-1"
+         offset="1"
+         style="stop-color:#485a61;stop-opacity:0.2;" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient6803-8"
+       id="linearGradient3356"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(2.0671707,0.70577206)"
+       x1="5"
+       y1="-14"
+       x2="25"
+       y2="-14" />
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter1304"
+       x="-0.044455506"
+       width="1.0889111"
+       y="-0.092260011"
+       height="1.18452">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.50012444"
+         id="feGaussianBlur1306" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter1336"
+       x="-0.034445044"
+       width="1.0688901"
+       y="-0.23247281"
+       height="1.4649456">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.38750672"
+         id="feGaussianBlur1338" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter1356"
+       x="-0.059940036"
+       width="1.1198801"
+       y="-0.06006008"
+       height="1.1201202">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.10010014"
+         id="feGaussianBlur1358" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter1376"
+       x="-0.12824532"
+       width="1.2564907"
+       y="-0.039002769"
+       height="1.0780056">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.21374222"
+         id="feGaussianBlur1378" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter1396"
+       x="-0.034867413"
+       width="1.0697348"
+       y="-0.22967936"
+       height="1.4593587">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.39237216"
+         id="feGaussianBlur1398" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter1428"
+       x="-0.059668832"
+       width="1.1193377"
+       y="-0.060333006"
+       height="1.120666">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.10055501"
+         id="feGaussianBlur1430" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter1448"
+       x="-0.059999999"
+       width="1.12"
+       y="-0.059999999"
+       height="1.12">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.1"
+         id="feGaussianBlur1450" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter1472"
+       x="-0.12798662"
+       width="1.2559733"
+       y="-0.039053403"
+       height="1.0781068">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.21360226"
+         id="feGaussianBlur1474" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter1496"
+       x="-0.059999991"
+       width="1.12"
+       y="-0.060000006"
+       height="1.12">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.10000001"
+         id="feGaussianBlur1498" />
+    </filter>
+  </defs>
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="display:inline"
+     inkscape:label="layer1"
+     transform="translate(-1535.9686,-5.7626628)" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     style="display:inline"
+     inkscape:label="glow"
+     transform="translate(-1535.9686,-5.7626628)" />
+  <g
+     transform="translate(893.09238,-1485.6421)"
+     id="g2424"
+     style="display:none"
+     inkscape:label="layer1" />
+  <g
+     transform="translate(893.09238,-1485.6421)"
+     id="g2426"
+     style="display:inline"
+     inkscape:label="glow" />
+  <g
+     transform="translate(939.07018,-516.77939)"
+     id="g3429"
+     inkscape:label="Layer 1" />
+  <g
+     transform="translate(2725.3607,-133.32131)"
+     id="g19758"
+     inkscape:label="Layer 1" />
+  <g
+     transform="translate(3830.1859,-1011.5907)"
+     id="g3935"
+     inkscape:label="Layer 1" />
+  <g
+     transform="translate(1432.3162,-1026.9379)"
+     id="g8459"
+     inkscape:label="Layer 1" />
+  <g
+     transform="translate(81.498684,301.67377)"
+     id="g28391"
+     inkscape:label="Layer 1" />
+  <g
+     transform="translate(1186.3239,-576.59559)"
+     id="g28393"
+     inkscape:label="Layer 1" />
+  <g
+     transform="translate(-1211.5458,-591.94279)"
+     id="g28395"
+     inkscape:label="Layer 1" />
+  <g
+     transform="translate(2227.9987,293.67377)"
+     id="g6598"
+     inkscape:label="Layer 1" />
+  <g
+     transform="translate(3332.8239,-584.59559)"
+     id="g6640"
+     inkscape:label="Layer 1" />
+  <g
+     transform="translate(934.95418,-599.94282)"
+     id="g6716"
+     inkscape:label="Layer 1" />
+  <g
+     style="opacity:0.45945943"
+     transform="matrix(1,0,0,-1,-235.96862,754.63077)"
+     id="g6850" />
+  <text
+     id="text6990"
+     y="251.59952"
+     x="-11.968616"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:'Gill Sans';-inkscape-font-specification:'Bitstream Vera Sans Bold';text-align:justify;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+     xml:space="preserve"><tspan
+       y="251.59952"
+       x="-11.968616"
+       id="tspan6992"
+       sodipodi:role="line"
+       style="font-size:14px;line-height:1.25"> </tspan></text>
+  <text
+     id="text2705"
+     y="236.1801"
+     x="11.309109"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:'Gill Sans';text-align:justify;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+     xml:space="preserve"><tspan
+       y="236.1801"
+       x="11.309109"
+       id="tspan2707"
+       sodipodi:role="line"
+       style="font-size:14px;line-height:1.25"> </tspan></text>
+  <g
+     id="g3922"
+     style="display:none"
+     inkscape:label="layer1"
+     transform="translate(-1463.2255,977.5701)" />
+  <g
+     id="g3387"
+     style="display:inline"
+     inkscape:label="glow"
+     transform="translate(-1463.2255,977.5701)" />
+  <g
+     transform="translate(965.83547,-502.30931)"
+     id="g3389"
+     style="display:none"
+     inkscape:label="layer1" />
+  <g
+     transform="translate(965.83547,-502.30931)"
+     id="g3391"
+     style="display:inline"
+     inkscape:label="glow" />
+  <g
+     transform="translate(1011.8133,466.55338)"
+     id="g3393"
+     inkscape:label="Layer 1" />
+  <g
+     transform="translate(2798.1038,850.01146)"
+     id="g3395"
+     inkscape:label="Layer 1" />
+  <g
+     transform="translate(3902.929,-28.257906)"
+     id="g3397"
+     inkscape:label="Layer 1" />
+  <g
+     transform="translate(1505.0593,-43.605106)"
+     id="g3399"
+     inkscape:label="Layer 1" />
+  <g
+     transform="translate(154.24175,1285.0065)"
+     id="g3401"
+     inkscape:label="Layer 1" />
+  <g
+     transform="translate(1259.067,406.73718)"
+     id="g3403"
+     inkscape:label="Layer 1" />
+  <g
+     transform="translate(-1138.8027,391.38998)"
+     id="g3405"
+     inkscape:label="Layer 1" />
+  <g
+     transform="translate(2300.7418,1277.0065)"
+     id="g3407"
+     inkscape:label="Layer 1" />
+  <g
+     transform="translate(3405.567,398.73718)"
+     id="g3409"
+     inkscape:label="Layer 1" />
+  <g
+     transform="translate(1007.6973,383.38995)"
+     id="g3411"
+     inkscape:label="Layer 1" />
+  <g
+     style="opacity:0.45945943"
+     transform="matrix(1,0,0,-1,-163.22555,1737.9635)"
+     id="g3413" />
+  <text
+     id="text3415"
+     y="1234.9323"
+     x="60.774475"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:'Gill Sans';text-align:justify;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+     xml:space="preserve"><tspan
+       y="1234.9323"
+       x="60.774475"
+       id="tspan3417"
+       sodipodi:role="line"
+       style="font-size:14px;line-height:1.25"> </tspan></text>
+  <g
+     id="g5744"
+     style="display:none"
+     inkscape:label="layer1"
+     transform="translate(-2362.3061,867.97286)" />
+  <g
+     id="g5746"
+     style="display:inline"
+     inkscape:label="glow"
+     transform="translate(-2362.3061,867.97286)" />
+  <g
+     transform="translate(66.754874,-611.90655)"
+     id="g5748"
+     style="display:none"
+     inkscape:label="layer1" />
+  <g
+     transform="translate(66.754874,-611.90655)"
+     id="g5750"
+     style="display:inline"
+     inkscape:label="glow" />
+  <g
+     transform="translate(112.73267,356.95614)"
+     id="g5752"
+     inkscape:label="Layer 1" />
+  <g
+     transform="translate(1899.0232,740.41422)"
+     id="g5754"
+     inkscape:label="Layer 1" />
+  <g
+     transform="translate(3003.8484,-137.85515)"
+     id="g5756"
+     inkscape:label="Layer 1" />
+  <g
+     transform="translate(605.97867,-153.20235)"
+     id="g5758"
+     inkscape:label="Layer 1" />
+  <g
+     transform="translate(-744.83884,1175.4093)"
+     id="g5760"
+     inkscape:label="Layer 1" />
+  <g
+     transform="translate(359.98637,297.13994)"
+     id="g5762"
+     inkscape:label="Layer 1" />
+  <g
+     transform="translate(-2037.8833,281.79274)"
+     id="g5764"
+     inkscape:label="Layer 1" />
+  <g
+     transform="translate(1401.6612,1167.4093)"
+     id="g5766"
+     inkscape:label="Layer 1" />
+  <g
+     transform="translate(2506.4864,289.13994)"
+     id="g5768"
+     inkscape:label="Layer 1" />
+  <g
+     transform="translate(108.61667,273.79271)"
+     id="g5770"
+     inkscape:label="Layer 1" />
+  <g
+     style="opacity:0.45945943"
+     transform="matrix(1,0,0,-1,-1062.3061,1628.3663)"
+     id="g5772" />
+  <text
+     id="text5774"
+     y="1125.335"
+     x="-838.30615"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:'Gill Sans';text-align:justify;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+     xml:space="preserve"><tspan
+       y="1125.335"
+       x="-838.30615"
+       id="tspan5776"
+       sodipodi:role="line"
+       style="font-size:14px;line-height:1.25"> </tspan></text>
+  <g
+     id="g3441"
+     style="display:none"
+     inkscape:label="layer1"
+     transform="translate(-2222.5936,-32.762666)" />
+  <g
+     id="g3443"
+     style="display:inline"
+     inkscape:label="glow"
+     transform="translate(-2222.5936,-32.762666)" />
+  <g
+     transform="translate(206.46734,-1512.6421)"
+     id="g3445"
+     style="display:none"
+     inkscape:label="layer1" />
+  <g
+     transform="translate(206.46734,-1512.6421)"
+     id="g3447"
+     style="display:inline"
+     inkscape:label="glow" />
+  <g
+     transform="translate(252.44514,-543.77939)"
+     id="g3449"
+     inkscape:label="Layer 1" />
+  <g
+     transform="translate(2038.7357,-160.32131)"
+     id="g3451"
+     inkscape:label="Layer 1" />
+  <g
+     transform="translate(3143.5609,-1038.5907)"
+     id="g3453"
+     inkscape:label="Layer 1" />
+  <g
+     transform="translate(745.69117,-1053.9379)"
+     id="g3455"
+     inkscape:label="Layer 1" />
+  <g
+     transform="translate(-605.12636,274.67377)"
+     id="g3457"
+     inkscape:label="Layer 1" />
+  <g
+     transform="translate(499.69887,-603.59559)"
+     id="g3459"
+     inkscape:label="Layer 1" />
+  <g
+     transform="translate(-1898.1708,-618.94279)"
+     id="g3461"
+     inkscape:label="Layer 1" />
+  <g
+     transform="translate(1541.3737,266.67377)"
+     id="g3463"
+     inkscape:label="Layer 1" />
+  <g
+     transform="translate(2646.1989,-611.59559)"
+     id="g3465"
+     inkscape:label="Layer 1" />
+  <g
+     transform="translate(248.32914,-626.94282)"
+     id="g3467"
+     inkscape:label="Layer 1" />
+  <g
+     style="opacity:0.45945943"
+     transform="matrix(1,0,0,-1,-922.59366,727.63077)"
+     id="g3469" />
+  <text
+     id="text3471"
+     y="224.59952"
+     x="-698.59369"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:'Gill Sans';-inkscape-font-specification:'Bitstream Vera Sans Bold';text-align:justify;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+     xml:space="preserve"><tspan
+       y="224.59952"
+       x="-698.59369"
+       id="tspan3473"
+       sodipodi:role="line"
+       style="font-size:14px;line-height:1.25"> </tspan></text>
+  <g
+     id="g3480"
+     style="display:none"
+     inkscape:label="layer1"
+     transform="translate(-2279.7958,554.25987)" />
+  <g
+     id="g2817"
+     style="display:inline"
+     inkscape:label="glow"
+     transform="translate(-2279.7958,554.25987)" />
+  <g
+     transform="translate(149.26516,-925.61958)"
+     id="g2819"
+     style="display:none"
+     inkscape:label="layer1" />
+  <g
+     transform="translate(149.26516,-925.61958)"
+     id="g2821"
+     style="display:inline"
+     inkscape:label="glow" />
+  <g
+     transform="translate(195.24296,43.243152)"
+     id="g2823"
+     inkscape:label="Layer 1" />
+  <g
+     transform="translate(1981.5335,426.70123)"
+     id="g2825"
+     inkscape:label="Layer 1" />
+  <g
+     transform="translate(3086.3587,-451.56814)"
+     id="g2827"
+     inkscape:label="Layer 1" />
+  <g
+     transform="translate(688.48897,-466.91534)"
+     id="g2829"
+     inkscape:label="Layer 1" />
+  <g
+     transform="translate(-662.32855,861.69629)"
+     id="g2831"
+     inkscape:label="Layer 1" />
+  <g
+     transform="translate(442.49667,-16.573046)"
+     id="g2833"
+     inkscape:label="Layer 1" />
+  <g
+     transform="translate(-1955.373,-31.920246)"
+     id="g2835"
+     inkscape:label="Layer 1" />
+  <g
+     transform="translate(1484.1715,853.69629)"
+     id="g2837"
+     inkscape:label="Layer 1" />
+  <g
+     transform="translate(2588.9967,-24.573046)"
+     id="g2839"
+     inkscape:label="Layer 1" />
+  <g
+     transform="translate(191.12696,-39.920276)"
+     id="g2841"
+     inkscape:label="Layer 1" />
+  <g
+     style="opacity:0.45945943"
+     transform="matrix(1,0,0,-1,-979.79582,1314.6533)"
+     id="g2843" />
+  <text
+     id="text2845"
+     y="811.62207"
+     x="-755.79584"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:'Gill Sans';text-align:justify;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+     xml:space="preserve"><tspan
+       y="811.62207"
+       x="-755.79584"
+       id="tspan2847"
+       sodipodi:role="line"
+       style="font-size:14px;line-height:1.25"> </tspan></text>
+  <g
+     id="g3498"
+     style="display:none"
+     inkscape:label="layer1"
+     transform="translate(-3178.8764,444.66263)" />
+  <g
+     id="g3500"
+     style="display:inline"
+     inkscape:label="glow"
+     transform="translate(-3178.8764,444.66263)" />
+  <g
+     transform="translate(-749.81543,-1035.2168)"
+     id="g3502"
+     style="display:none"
+     inkscape:label="layer1" />
+  <g
+     transform="translate(-749.81543,-1035.2168)"
+     id="g3504"
+     style="display:inline"
+     inkscape:label="glow" />
+  <g
+     transform="translate(-703.83763,-66.354086)"
+     id="g3506"
+     inkscape:label="Layer 1" />
+  <g
+     transform="translate(1082.4529,317.10399)"
+     id="g3508"
+     inkscape:label="Layer 1" />
+  <g
+     transform="translate(2187.2781,-561.16538)"
+     id="g3510"
+     inkscape:label="Layer 1" />
+  <g
+     transform="translate(-210.59163,-576.51258)"
+     id="g3512"
+     inkscape:label="Layer 1" />
+  <g
+     transform="translate(-1561.4091,752.09909)"
+     id="g3514"
+     inkscape:label="Layer 1" />
+  <g
+     transform="translate(-456.58393,-126.17029)"
+     id="g3516"
+     inkscape:label="Layer 1" />
+  <g
+     transform="translate(-2854.4536,-141.51749)"
+     id="g3518"
+     inkscape:label="Layer 1" />
+  <g
+     transform="translate(585.09087,744.09909)"
+     id="g3520"
+     inkscape:label="Layer 1" />
+  <g
+     transform="translate(1689.9161,-134.17029)"
+     id="g3522"
+     inkscape:label="Layer 1" />
+  <g
+     transform="translate(-707.95363,-149.51752)"
+     id="g3524"
+     inkscape:label="Layer 1" />
+  <g
+     style="opacity:0.45945943"
+     transform="matrix(1,0,0,-1,-1878.8764,1205.0561)"
+     id="g3526" />
+  <text
+     id="text3528"
+     y="702.02484"
+     x="-1654.8765"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:'Gill Sans';text-align:justify;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+     xml:space="preserve"><tspan
+       y="702.02484"
+       x="-1654.8765"
+       id="tspan3530"
+       sodipodi:role="line"
+       style="font-size:14px;line-height:1.25"> </tspan></text>
+  <g
+     id="g4763"
+     style="display:none"
+     inkscape:label="layer1"
+     transform="translate(-2466.1909,-268.99459)" />
+  <g
+     id="g4765"
+     style="display:inline"
+     inkscape:label="glow"
+     transform="translate(-2466.1909,-268.99459)" />
+  <g
+     transform="translate(-37.129906,-1748.874)"
+     id="g4767"
+     style="display:none"
+     inkscape:label="layer1" />
+  <g
+     transform="translate(-37.129906,-1748.874)"
+     id="g4769"
+     style="display:inline"
+     inkscape:label="glow" />
+  <g
+     transform="translate(8.8478935,-780.01131)"
+     id="g4771"
+     inkscape:label="Layer 1" />
+  <g
+     transform="translate(1795.1384,-396.55323)"
+     id="g4773"
+     inkscape:label="Layer 1" />
+  <g
+     transform="translate(2899.9636,-1274.8226)"
+     id="g4775"
+     inkscape:label="Layer 1" />
+  <g
+     transform="translate(502.09387,-1290.1698)"
+     id="g4777"
+     inkscape:label="Layer 1" />
+  <g
+     transform="translate(-848.72361,38.441852)"
+     id="g4779"
+     inkscape:label="Layer 1" />
+  <g
+     transform="translate(256.10156,-839.82751)"
+     id="g4781"
+     inkscape:label="Layer 1" />
+  <g
+     transform="translate(-2141.7681,-855.17471)"
+     id="g4783"
+     inkscape:label="Layer 1" />
+  <g
+     transform="translate(1297.7764,30.441852)"
+     id="g4785"
+     inkscape:label="Layer 1" />
+  <g
+     transform="translate(2402.6016,-847.82751)"
+     id="g4787"
+     inkscape:label="Layer 1" />
+  <g
+     transform="translate(4.7318935,-863.17474)"
+     id="g4789"
+     inkscape:label="Layer 1" />
+  <g
+     style="opacity:0.45945943"
+     transform="matrix(1,0,0,-1,-1166.1909,491.39885)"
+     id="g4791" />
+  <text
+     id="text4793"
+     y="-11.632393"
+     x="-942.19092"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:'Gill Sans';text-align:justify;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+     xml:space="preserve"><tspan
+       y="-11.632393"
+       x="-942.19092"
+       id="tspan4795"
+       sodipodi:role="line"
+       style="font-size:14px;line-height:1.25"> </tspan></text>
+  <g
+     transform="translate(889.53137,-834.65178)"
+     id="g4239">
+    <g
+       id="g7784" />
+  </g>
+  <g
+     transform="translate(-1265.9686,-1062.014)"
+     inkscape:label="layer1"
+     style="display:none"
+     id="g7786" />
+  <g
+     transform="translate(-1265.9686,-1062.014)"
+     inkscape:label="glow"
+     style="display:inline"
+     id="g7788" />
+  <g
+     inkscape:label="layer1"
+     style="display:none"
+     id="g7790"
+     transform="translate(1163.0924,-2541.8934)" />
+  <g
+     inkscape:label="glow"
+     style="display:inline"
+     id="g7792"
+     transform="translate(1163.0924,-2541.8934)" />
+  <g
+     inkscape:label="Layer 1"
+     id="g7794"
+     transform="translate(1209.0702,-1573.0307)" />
+  <g
+     inkscape:label="Layer 1"
+     id="g7796"
+     transform="translate(2995.3607,-1189.5726)" />
+  <g
+     inkscape:label="Layer 1"
+     id="g7798"
+     transform="translate(4100.1859,-2067.842)" />
+  <g
+     inkscape:label="Layer 1"
+     id="g7800"
+     transform="translate(1702.3162,-2083.1892)" />
+  <g
+     inkscape:label="Layer 1"
+     id="g7802"
+     transform="translate(351.49867,-754.57753)" />
+  <g
+     inkscape:label="Layer 1"
+     id="g7804"
+     transform="translate(1456.3239,-1632.8469)" />
+  <g
+     inkscape:label="Layer 1"
+     id="g7806"
+     transform="translate(-941.54585,-1648.1941)" />
+  <g
+     inkscape:label="Layer 1"
+     id="g7808"
+     transform="translate(2497.9987,-762.57753)" />
+  <g
+     inkscape:label="Layer 1"
+     id="g7810"
+     transform="translate(3602.8239,-1640.8469)" />
+  <g
+     inkscape:label="Layer 1"
+     id="g7812"
+     transform="translate(1204.9542,-1656.1941)" />
+  <g
+     id="g7814"
+     transform="matrix(1,0,0,-1,34.031374,-301.62053)"
+     style="opacity:0.45945943" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:'Gill Sans';-inkscape-font-specification:'Bitstream Vera Sans Bold';text-align:justify;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+     x="258.03137"
+     y="-804.65173"
+     id="text7816"><tspan
+       sodipodi:role="line"
+       id="tspan7818"
+       x="258.03137"
+       y="-804.65173"
+       style="font-size:14px;line-height:1.25"> </tspan></text>
+  <g
+     id="layer4"
+     inkscape:label="box"
+     style="display:inline"
+     transform="translate(-495.86306,-730.28083)" />
+  <g
+     id="layer5"
+     inkscape:label="zip_app"
+     style="display:inline"
+     transform="translate(-495.86306,-730.28083)" />
+  <rect
+     style="opacity:0.57786889;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+     id="rect1327"
+     width="1"
+     height="0"
+     x="-582.3324"
+     y="-791.81348" />
+  <rect
+     style="opacity:0.57786889;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+     id="rect2482"
+     width="1"
+     height="0"
+     x="-617.45923"
+     y="-819.34106" />
+  <g
+     style="opacity:0.40163933"
+     transform="matrix(-0.782995,0,0,0.650879,-3099.2545,-206.03948)"
+     id="g4640" />
+  <g
+     id="g4646"
+     transform="matrix(-0.782995,0,0,0.650879,-3099.2545,-206.03948)"
+     style="opacity:0.40163933" />
+  <g
+     id="g4730"
+     transform="matrix(1,0,0,0.650879,101.70774,-198.71168)"
+     style="opacity:0.40163933" />
+  <g
+     style="opacity:0.40163933"
+     transform="matrix(1,0,0,0.650879,101.70774,-198.71168)"
+     id="g4748" />
+  <g
+     id="g5475"
+     style="display:none"
+     inkscape:label="layer1"
+     transform="translate(-6641.8858,-1223.2647)" />
+  <g
+     id="g5477"
+     style="display:inline"
+     inkscape:label="glow"
+     transform="translate(-6641.8858,-1223.2647)" />
+  <g
+     transform="translate(-4212.8248,-2703.1441)"
+     id="g5479"
+     style="display:none"
+     inkscape:label="layer1" />
+  <g
+     transform="translate(-4212.8248,-2703.1441)"
+     id="g5481"
+     style="display:inline"
+     inkscape:label="glow" />
+  <g
+     transform="translate(-4166.847,-1734.2814)"
+     id="g5483"
+     inkscape:label="Layer 1" />
+  <g
+     transform="translate(-2380.5565,-1350.8233)"
+     id="g5485"
+     inkscape:label="Layer 1" />
+  <g
+     transform="translate(-1275.7313,-2229.0927)"
+     id="g5487"
+     inkscape:label="Layer 1" />
+  <g
+     transform="translate(-3673.601,-2244.4399)"
+     id="g5489"
+     inkscape:label="Layer 1" />
+  <g
+     transform="translate(-5024.4185,-915.82818)"
+     id="g5491"
+     inkscape:label="Layer 1" />
+  <g
+     transform="translate(-3919.5933,-1794.0976)"
+     id="g5493"
+     inkscape:label="Layer 1" />
+  <g
+     transform="translate(-6317.463,-1809.4448)"
+     id="g5495"
+     inkscape:label="Layer 1" />
+  <g
+     transform="translate(-2877.9185,-923.82818)"
+     id="g5497"
+     inkscape:label="Layer 1" />
+  <g
+     transform="translate(-1773.0933,-1802.0976)"
+     id="g5499"
+     inkscape:label="Layer 1" />
+  <g
+     transform="translate(-4170.963,-1817.4448)"
+     id="g5501"
+     inkscape:label="Layer 1" />
+  <g
+     style="opacity:0.45945943"
+     transform="matrix(1,0,0,-1,-5341.8858,-462.87122)"
+     id="g5503" />
+  <text
+     id="text5505"
+     y="-965.9024"
+     x="-5117.8857"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:'Gill Sans';-inkscape-font-specification:'Bitstream Vera Sans Bold';text-align:justify;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+     xml:space="preserve"><tspan
+       y="-965.9024"
+       x="-5117.8857"
+       id="tspan5507"
+       sodipodi:role="line"
+       style="font-size:14px;line-height:1.25"> </tspan></text>
+  <g
+     id="g6557"
+     style="display:none"
+     inkscape:label="layer1"
+     transform="translate(-1904.7186,-571.95147)" />
+  <g
+     id="g6559"
+     style="display:inline"
+     inkscape:label="glow"
+     transform="translate(-1904.7186,-571.95147)" />
+  <g
+     transform="translate(524.34237,-2051.8309)"
+     id="g6561"
+     style="display:none"
+     inkscape:label="layer1" />
+  <g
+     transform="translate(524.34237,-2051.8309)"
+     id="g6563"
+     style="display:inline"
+     inkscape:label="glow" />
+  <g
+     transform="translate(570.32017,-1082.9682)"
+     id="g6565"
+     inkscape:label="Layer 1" />
+  <g
+     transform="translate(2356.6107,-699.51011)"
+     id="g6567"
+     inkscape:label="Layer 1" />
+  <g
+     transform="translate(3461.4359,-1577.7795)"
+     id="g6569"
+     inkscape:label="Layer 1" />
+  <g
+     transform="translate(1063.5662,-1593.1267)"
+     id="g6571"
+     inkscape:label="Layer 1" />
+  <g
+     transform="translate(-287.25133,-264.51503)"
+     id="g6573"
+     inkscape:label="Layer 1" />
+  <g
+     transform="translate(817.57387,-1142.7844)"
+     id="g6575"
+     inkscape:label="Layer 1" />
+  <g
+     transform="translate(-1580.2958,-1158.1316)"
+     id="g6577"
+     inkscape:label="Layer 1" />
+  <g
+     transform="translate(1859.2487,-272.51503)"
+     id="g6579"
+     inkscape:label="Layer 1" />
+  <g
+     transform="translate(2964.0739,-1150.7844)"
+     id="g6581"
+     inkscape:label="Layer 1" />
+  <g
+     transform="translate(566.20417,-1166.1316)"
+     id="g6583"
+     inkscape:label="Layer 1" />
+  <g
+     style="opacity:0.45945943"
+     transform="matrix(1,0,0,-1,-604.71863,188.44202)"
+     id="g6585" />
+  <text
+     id="text6588"
+     y="-314.58926"
+     x="-380.71863"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:'Gill Sans';-inkscape-font-specification:'Bitstream Vera Sans Bold';text-align:justify;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+     xml:space="preserve"><tspan
+       y="-314.58926"
+       x="-380.71863"
+       id="tspan6590"
+       sodipodi:role="line"
+       style="font-size:14px;line-height:1.25"> </tspan></text>
+  <g
+     transform="translate(941.03137,-1865.7627)"
+     inkscape:label="layer1"
+     style="display:none"
+     id="g8959" />
+  <g
+     transform="translate(941.03137,-1865.7627)"
+     inkscape:label="glow"
+     style="display:inline"
+     id="g8961" />
+  <g
+     inkscape:label="layer1"
+     style="display:none"
+     id="g8963"
+     transform="translate(3370.0924,-3345.6422)" />
+  <g
+     inkscape:label="glow"
+     style="display:inline"
+     id="g8965"
+     transform="translate(3370.0924,-3345.6422)" />
+  <g
+     inkscape:label="Layer 1"
+     id="g8967"
+     transform="translate(3416.0702,-2376.7795)" />
+  <g
+     inkscape:label="Layer 1"
+     id="g8969"
+     transform="translate(5202.3607,-1993.3214)" />
+  <g
+     inkscape:label="Layer 1"
+     id="g8971"
+     transform="translate(6307.1859,-2871.5908)" />
+  <g
+     inkscape:label="Layer 1"
+     id="g8973"
+     transform="translate(3909.3162,-2886.938)" />
+  <g
+     inkscape:label="Layer 1"
+     id="g8975"
+     transform="translate(2558.4987,-1558.3263)" />
+  <g
+     inkscape:label="Layer 1"
+     id="g8977"
+     transform="translate(3663.3239,-2436.5957)" />
+  <g
+     inkscape:label="Layer 1"
+     id="g8979"
+     transform="translate(1265.4542,-2451.9429)" />
+  <g
+     inkscape:label="Layer 1"
+     id="g8981"
+     transform="translate(4704.9987,-1566.3263)" />
+  <g
+     inkscape:label="Layer 1"
+     id="g8983"
+     transform="translate(5809.8239,-2444.5957)" />
+  <g
+     inkscape:label="Layer 1"
+     id="g8985"
+     transform="translate(3411.9542,-2459.9429)" />
+  <g
+     id="g9072"
+     transform="matrix(1,0,0,-1,2241.0314,-1105.3693)"
+     style="opacity:0.45945943" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:'Gill Sans';-inkscape-font-specification:'Bitstream Vera Sans Bold';text-align:justify;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+     x="2465.0315"
+     y="-1608.4005"
+     id="text9074"><tspan
+       sodipodi:role="line"
+       id="tspan9076"
+       x="2465.0315"
+       y="-1608.4005"
+       style="font-size:14px;line-height:1.25"> </tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Dutch801 Rm BT';-inkscape-font-specification:'Dutch801 Rm BT';text-align:justify;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+     x="121.03137"
+     y="-511.65176"
+     id="text7319"><tspan
+       sodipodi:role="line"
+       id="tspan7321"
+       x="121.03137"
+       y="-511.65176"
+       style="font-size:144px;line-height:1.25"> </tspan></text>
+  <g
+     id="g9024"
+     style="display:none"
+     inkscape:label="layer1"
+     transform="translate(-1447.7255,413.59655)" />
+  <g
+     id="g9026"
+     style="display:inline"
+     inkscape:label="glow"
+     transform="translate(-1447.7255,413.59655)" />
+  <g
+     transform="translate(981.33547,-1066.2829)"
+     id="g9028"
+     style="display:none"
+     inkscape:label="layer1" />
+  <g
+     transform="translate(981.33547,-1066.2829)"
+     id="g9030"
+     style="display:inline"
+     inkscape:label="glow" />
+  <g
+     transform="translate(1027.3133,-97.420166)"
+     id="g9032"
+     inkscape:label="Layer 1" />
+  <g
+     transform="translate(2813.6038,286.03791)"
+     id="g9034"
+     inkscape:label="Layer 1" />
+  <g
+     transform="translate(3918.429,-592.23146)"
+     id="g9036"
+     inkscape:label="Layer 1" />
+  <g
+     transform="translate(1520.5593,-607.57866)"
+     id="g9038"
+     inkscape:label="Layer 1" />
+  <g
+     transform="translate(169.74174,721.03297)"
+     id="g9040"
+     inkscape:label="Layer 1" />
+  <g
+     transform="translate(1274.567,-157.23637)"
+     id="g9042"
+     inkscape:label="Layer 1" />
+  <g
+     transform="translate(-1123.3027,-172.58357)"
+     id="g9044"
+     inkscape:label="Layer 1" />
+  <g
+     transform="translate(2316.2418,713.03297)"
+     id="g9046"
+     inkscape:label="Layer 1" />
+  <g
+     transform="translate(3421.067,-165.23637)"
+     id="g9048"
+     inkscape:label="Layer 1" />
+  <g
+     transform="translate(1023.1973,-180.5836)"
+     id="g9050"
+     inkscape:label="Layer 1" />
+  <g
+     style="opacity:0.45945943"
+     transform="matrix(1,0,0,-1,-147.72556,1173.99)"
+     id="g9052" />
+  <text
+     id="text9054"
+     y="670.95874"
+     x="76.274475"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:'Gill Sans';text-align:justify;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+     xml:space="preserve"><tspan
+       y="670.95874"
+       x="76.274475"
+       id="tspan9056"
+       sodipodi:role="line"
+       style="font-size:14px;line-height:1.25"> </tspan></text>
+  <g
+     id="g9058"
+     style="display:none"
+     inkscape:label="layer1"
+     transform="translate(-2346.8061,303.99931)" />
+  <g
+     id="g9060"
+     style="display:inline"
+     inkscape:label="glow"
+     transform="translate(-2346.8061,303.99931)" />
+  <g
+     transform="translate(82.254864,-1175.8801)"
+     id="g9062"
+     style="display:none"
+     inkscape:label="layer1" />
+  <g
+     transform="translate(82.254864,-1175.8801)"
+     id="g9064"
+     style="display:inline"
+     inkscape:label="glow" />
+  <g
+     transform="translate(128.23266,-207.01741)"
+     id="g9066"
+     inkscape:label="Layer 1" />
+  <g
+     transform="translate(1914.5232,176.44067)"
+     id="g9068"
+     inkscape:label="Layer 1" />
+  <g
+     transform="translate(3019.3484,-701.8287)"
+     id="g9070"
+     inkscape:label="Layer 1" />
+  <g
+     transform="translate(621.47867,-717.1759)"
+     id="g9073"
+     inkscape:label="Layer 1" />
+  <g
+     transform="translate(-729.33884,611.43577)"
+     id="g9075"
+     inkscape:label="Layer 1" />
+  <g
+     transform="translate(375.48637,-266.83361)"
+     id="g9077"
+     inkscape:label="Layer 1" />
+  <g
+     transform="translate(-2022.3833,-282.18081)"
+     id="g9079"
+     inkscape:label="Layer 1" />
+  <g
+     transform="translate(1417.1612,603.43577)"
+     id="g9081"
+     inkscape:label="Layer 1" />
+  <g
+     transform="translate(2521.9864,-274.83361)"
+     id="g9083"
+     inkscape:label="Layer 1" />
+  <g
+     transform="translate(124.11666,-290.18084)"
+     id="g9085"
+     inkscape:label="Layer 1" />
+  <g
+     style="opacity:0.45945943"
+     transform="matrix(1,0,0,-1,-1046.8061,1064.3927)"
+     id="g9087" />
+  <text
+     id="text9089"
+     y="561.36151"
+     x="-822.80615"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:'Gill Sans';text-align:justify;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+     xml:space="preserve"><tspan
+       y="561.36151"
+       x="-822.80615"
+       id="tspan9091"
+       sodipodi:role="line"
+       style="font-size:14px;line-height:1.25"> </tspan></text>
+  <g
+     id="g9145"
+     style="display:none"
+     inkscape:label="layer1"
+     transform="translate(-2207.0936,-596.73622)" />
+  <g
+     id="g9147"
+     style="display:inline"
+     inkscape:label="glow"
+     transform="translate(-2207.0936,-596.73622)" />
+  <g
+     transform="translate(221.96734,-2076.6156)"
+     id="g9149"
+     style="display:none"
+     inkscape:label="layer1" />
+  <g
+     transform="translate(221.96734,-2076.6156)"
+     id="g9151"
+     style="display:inline"
+     inkscape:label="glow" />
+  <g
+     transform="translate(267.94517,-1107.753)"
+     id="g9153"
+     inkscape:label="Layer 1" />
+  <g
+     transform="translate(2054.2357,-724.29486)"
+     id="g9155"
+     inkscape:label="Layer 1" />
+  <g
+     transform="translate(3159.0609,-1602.5643)"
+     id="g9157"
+     inkscape:label="Layer 1" />
+  <g
+     transform="translate(761.19117,-1617.9115)"
+     id="g9159"
+     inkscape:label="Layer 1" />
+  <g
+     transform="translate(-589.62636,-289.29978)"
+     id="g9161"
+     inkscape:label="Layer 1" />
+  <g
+     transform="translate(515.19887,-1167.5692)"
+     id="g9163"
+     inkscape:label="Layer 1" />
+  <g
+     transform="translate(-1882.6708,-1182.9164)"
+     id="g9165"
+     inkscape:label="Layer 1" />
+  <g
+     transform="translate(1556.8737,-297.29978)"
+     id="g9167"
+     inkscape:label="Layer 1" />
+  <g
+     transform="translate(2661.6989,-1175.5692)"
+     id="g9169"
+     inkscape:label="Layer 1" />
+  <g
+     transform="translate(263.82914,-1190.9164)"
+     id="g9171"
+     inkscape:label="Layer 1" />
+  <g
+     style="opacity:0.45945943"
+     transform="matrix(1,0,0,-1,-907.09366,163.65722)"
+     id="g9173" />
+  <text
+     id="text9175"
+     y="-339.37402"
+     x="-683.09369"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:'Gill Sans';-inkscape-font-specification:'Bitstream Vera Sans Bold';text-align:justify;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+     xml:space="preserve"><tspan
+       y="-339.37402"
+       x="-683.09369"
+       id="tspan9177"
+       sodipodi:role="line"
+       style="font-size:14px;line-height:1.25"> </tspan></text>
+  <g
+     id="g9179"
+     style="display:none"
+     inkscape:label="layer1"
+     transform="translate(-2264.2958,-9.7136758)" />
+  <g
+     id="g9181"
+     style="display:inline"
+     inkscape:label="glow"
+     transform="translate(-2264.2958,-9.7136758)" />
+  <g
+     transform="translate(164.76516,-1489.5931)"
+     id="g9183"
+     style="display:none"
+     inkscape:label="layer1" />
+  <g
+     transform="translate(164.76516,-1489.5931)"
+     id="g9185"
+     style="display:inline"
+     inkscape:label="glow" />
+  <g
+     transform="translate(210.74296,-520.7304)"
+     id="g9187"
+     inkscape:label="Layer 1" />
+  <g
+     transform="translate(1997.0335,-137.27232)"
+     id="g9189"
+     inkscape:label="Layer 1" />
+  <g
+     transform="translate(3101.8587,-1015.5417)"
+     id="g9191"
+     inkscape:label="Layer 1" />
+  <g
+     transform="translate(703.98897,-1030.8889)"
+     id="g9193"
+     inkscape:label="Layer 1" />
+  <g
+     transform="translate(-646.82856,297.72274)"
+     id="g9195"
+     inkscape:label="Layer 1" />
+  <g
+     transform="translate(457.99667,-580.5466)"
+     id="g9197"
+     inkscape:label="Layer 1" />
+  <g
+     transform="translate(-1939.873,-595.8938)"
+     id="g9199"
+     inkscape:label="Layer 1" />
+  <g
+     transform="translate(1499.6715,289.72274)"
+     id="g9201"
+     inkscape:label="Layer 1" />
+  <g
+     transform="translate(2604.4967,-588.5466)"
+     id="g9203"
+     inkscape:label="Layer 1" />
+  <g
+     transform="translate(206.62696,-603.89383)"
+     id="g9205"
+     inkscape:label="Layer 1" />
+  <g
+     style="opacity:0.45945943"
+     transform="matrix(1,0,0,-1,-964.29585,750.67977)"
+     id="g9207" />
+  <text
+     id="text9209"
+     y="247.64847"
+     x="-740.29584"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:'Gill Sans';text-align:justify;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+     xml:space="preserve"><tspan
+       y="247.64847"
+       x="-740.29584"
+       id="tspan9211"
+       sodipodi:role="line"
+       style="font-size:14px;line-height:1.25"> </tspan></text>
+  <g
+     id="g9213"
+     style="display:none"
+     inkscape:label="layer1"
+     transform="translate(-3163.3764,-119.31092)" />
+  <g
+     id="g9215"
+     style="display:inline"
+     inkscape:label="glow"
+     transform="translate(-3163.3764,-119.31092)" />
+  <g
+     transform="translate(-734.31544,-1599.1903)"
+     id="g9217"
+     style="display:none"
+     inkscape:label="layer1" />
+  <g
+     transform="translate(-734.31544,-1599.1903)"
+     id="g9219"
+     style="display:inline"
+     inkscape:label="glow" />
+  <g
+     transform="translate(-688.33764,-630.32764)"
+     id="g9221"
+     inkscape:label="Layer 1" />
+  <g
+     transform="translate(1097.9529,-246.86956)"
+     id="g9223"
+     inkscape:label="Layer 1" />
+  <g
+     transform="translate(2202.7781,-1125.139)"
+     id="g9225"
+     inkscape:label="Layer 1" />
+  <g
+     transform="translate(-195.09164,-1140.4862)"
+     id="g9227"
+     inkscape:label="Layer 1" />
+  <g
+     transform="translate(-1545.9091,188.12554)"
+     id="g9229"
+     inkscape:label="Layer 1" />
+  <g
+     transform="translate(-441.08393,-690.14384)"
+     id="g9231"
+     inkscape:label="Layer 1" />
+  <g
+     transform="translate(-2838.9536,-705.49104)"
+     id="g9233"
+     inkscape:label="Layer 1" />
+  <g
+     transform="translate(600.59087,180.12554)"
+     id="g9235"
+     inkscape:label="Layer 1" />
+  <g
+     transform="translate(1705.4161,-698.14384)"
+     id="g9237"
+     inkscape:label="Layer 1" />
+  <g
+     transform="translate(-692.45364,-713.49107)"
+     id="g9239"
+     inkscape:label="Layer 1" />
+  <g
+     style="opacity:0.45945943"
+     transform="matrix(1,0,0,-1,-1863.3764,641.08257)"
+     id="g9241" />
+  <text
+     id="text9243"
+     y="138.05124"
+     x="-1639.3765"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:'Gill Sans';text-align:justify;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+     xml:space="preserve"><tspan
+       y="138.05124"
+       x="-1639.3765"
+       id="tspan9245"
+       sodipodi:role="line"
+       style="font-size:14px;line-height:1.25"> </tspan></text>
+  <g
+     id="g9247"
+     style="display:none"
+     inkscape:label="layer1"
+     transform="translate(-2450.6909,-832.96814)" />
+  <g
+     id="g9249"
+     style="display:inline"
+     inkscape:label="glow"
+     transform="translate(-2450.6909,-832.96814)" />
+  <g
+     transform="translate(-21.629916,-2312.8476)"
+     id="g9251"
+     style="display:none"
+     inkscape:label="layer1" />
+  <g
+     transform="translate(-21.629916,-2312.8476)"
+     id="g9253"
+     style="display:inline"
+     inkscape:label="glow" />
+  <g
+     transform="translate(24.347884,-1343.9849)"
+     id="g9255"
+     inkscape:label="Layer 1" />
+  <g
+     transform="translate(1810.6384,-960.52678)"
+     id="g9257"
+     inkscape:label="Layer 1" />
+  <g
+     transform="translate(2915.4636,-1838.7962)"
+     id="g9259"
+     inkscape:label="Layer 1" />
+  <g
+     transform="translate(517.59387,-1854.1433)"
+     id="g9261"
+     inkscape:label="Layer 1" />
+  <g
+     transform="translate(-833.22362,-525.5317)"
+     id="g9263"
+     inkscape:label="Layer 1" />
+  <g
+     transform="translate(271.60157,-1403.8011)"
+     id="g9265"
+     inkscape:label="Layer 1" />
+  <g
+     transform="translate(-2126.2681,-1419.1483)"
+     id="g9267"
+     inkscape:label="Layer 1" />
+  <g
+     transform="translate(1313.2764,-533.5317)"
+     id="g9269"
+     inkscape:label="Layer 1" />
+  <g
+     transform="translate(2418.1016,-1411.8011)"
+     id="g9271"
+     inkscape:label="Layer 1" />
+  <g
+     transform="translate(20.231884,-1427.1483)"
+     id="g9273"
+     inkscape:label="Layer 1" />
+  <g
+     style="opacity:0.45945943"
+     transform="matrix(1,0,0,-1,-1150.6909,-72.574696)"
+     id="g9275" />
+  <text
+     id="text9277"
+     y="-575.6059"
+     x="-926.69092"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:'Gill Sans';text-align:justify;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+     xml:space="preserve"><tspan
+       y="-575.6059"
+       x="-926.69092"
+       id="tspan9279"
+       sodipodi:role="line"
+       style="font-size:14px;line-height:1.25"> </tspan></text>
+  <g
+     transform="translate(905.03137,-1398.6253)"
+     id="g9307">
+    <g
+       id="g9309" />
+  </g>
+  <g
+     transform="translate(-1250.4686,-1625.9875)"
+     inkscape:label="layer1"
+     style="display:none"
+     id="g9311" />
+  <g
+     transform="translate(-1250.4686,-1625.9875)"
+     inkscape:label="glow"
+     style="display:inline"
+     id="g9313" />
+  <g
+     inkscape:label="layer1"
+     style="display:none"
+     id="g9315"
+     transform="translate(1178.5924,-3105.867)" />
+  <g
+     inkscape:label="glow"
+     style="display:inline"
+     id="g9317"
+     transform="translate(1178.5924,-3105.867)" />
+  <g
+     inkscape:label="Layer 1"
+     id="g9319"
+     transform="translate(1224.5702,-2137.0043)" />
+  <g
+     inkscape:label="Layer 1"
+     id="g9321"
+     transform="translate(3010.8607,-1753.5462)" />
+  <g
+     inkscape:label="Layer 1"
+     id="g9323"
+     transform="translate(4115.6859,-2631.8155)" />
+  <g
+     inkscape:label="Layer 1"
+     id="g9325"
+     transform="translate(1717.8162,-2647.1628)" />
+  <g
+     inkscape:label="Layer 1"
+     id="g9327"
+     transform="translate(366.99867,-1318.5511)" />
+  <g
+     inkscape:label="Layer 1"
+     id="g9329"
+     transform="translate(1471.8239,-2196.8204)" />
+  <g
+     inkscape:label="Layer 1"
+     id="g9331"
+     transform="translate(-926.04585,-2212.1677)" />
+  <g
+     inkscape:label="Layer 1"
+     id="g9333"
+     transform="translate(2513.4987,-1326.5511)" />
+  <g
+     inkscape:label="Layer 1"
+     id="g9335"
+     transform="translate(3618.3239,-2204.8204)" />
+  <g
+     inkscape:label="Layer 1"
+     id="g9337"
+     transform="translate(1220.4542,-2220.1677)" />
+  <g
+     id="g9339"
+     transform="matrix(1,0,0,-1,49.531374,-865.59408)"
+     style="opacity:0.45945943" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:'Gill Sans';-inkscape-font-specification:'Bitstream Vera Sans Bold';text-align:justify;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+     x="273.53137"
+     y="-1368.6254"
+     id="text9341"><tspan
+       sodipodi:role="line"
+       id="tspan9343"
+       x="273.53137"
+       y="-1368.6254"
+       style="font-size:14px;line-height:1.25"> </tspan></text>
+  <g
+     id="g9345"
+     inkscape:label="box"
+     style="display:inline"
+     transform="translate(-480.36306,-1294.2544)" />
+  <g
+     id="g9347"
+     inkscape:label="zip_app"
+     style="display:inline"
+     transform="translate(-480.36306,-1294.2544)" />
+  <rect
+     style="opacity:0.57786889;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+     id="rect9349"
+     width="1"
+     height="0"
+     x="-566.8324"
+     y="-1355.7871" />
+  <rect
+     style="opacity:0.57786889;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+     id="rect9351"
+     width="1"
+     height="0"
+     x="-601.95923"
+     y="-1383.3147" />
+  <g
+     style="opacity:0.40163933"
+     transform="matrix(-0.782995,0,0,0.650879,-3083.7545,-770.01303)"
+     id="g9353" />
+  <g
+     id="g9355"
+     transform="matrix(-0.782995,0,0,0.650879,-3083.7545,-770.01303)"
+     style="opacity:0.40163933" />
+  <g
+     id="g9357"
+     transform="matrix(1,0,0,0.650879,117.20774,-762.68523)"
+     style="opacity:0.40163933" />
+  <g
+     style="opacity:0.40163933"
+     transform="matrix(1,0,0,0.650879,117.20774,-762.68523)"
+     id="g9359" />
+  <g
+     id="g9361"
+     style="display:none"
+     inkscape:label="layer1"
+     transform="translate(-6626.3858,-1787.2383)" />
+  <g
+     id="g9363"
+     style="display:inline"
+     inkscape:label="glow"
+     transform="translate(-6626.3858,-1787.2383)" />
+  <g
+     transform="translate(-4197.3248,-3267.1177)"
+     id="g9365"
+     style="display:none"
+     inkscape:label="layer1" />
+  <g
+     transform="translate(-4197.3248,-3267.1177)"
+     id="g9367"
+     style="display:inline"
+     inkscape:label="glow" />
+  <g
+     transform="translate(-4151.347,-2298.255)"
+     id="g9369"
+     inkscape:label="Layer 1" />
+  <g
+     transform="translate(-2365.0565,-1914.7968)"
+     id="g9371"
+     inkscape:label="Layer 1" />
+  <g
+     transform="translate(-1260.2313,-2793.0662)"
+     id="g9373"
+     inkscape:label="Layer 1" />
+  <g
+     transform="translate(-3658.101,-2808.4135)"
+     id="g9375"
+     inkscape:label="Layer 1" />
+  <g
+     transform="translate(-5008.9185,-1479.8018)"
+     id="g9377"
+     inkscape:label="Layer 1" />
+  <g
+     transform="translate(-3904.0933,-2358.0711)"
+     id="g9379"
+     inkscape:label="Layer 1" />
+  <g
+     transform="translate(-6301.963,-2373.4184)"
+     id="g9381"
+     inkscape:label="Layer 1" />
+  <g
+     transform="translate(-2862.4185,-1487.8018)"
+     id="g9383"
+     inkscape:label="Layer 1" />
+  <g
+     transform="translate(-1757.5933,-2366.0711)"
+     id="g9385"
+     inkscape:label="Layer 1" />
+  <g
+     transform="translate(-4155.463,-2381.4184)"
+     id="g9387"
+     inkscape:label="Layer 1" />
+  <g
+     style="opacity:0.45945943"
+     transform="matrix(1,0,0,-1,-5326.3858,-1026.8448)"
+     id="g9389" />
+  <text
+     id="text9391"
+     y="-1529.876"
+     x="-5102.3857"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:'Gill Sans';-inkscape-font-specification:'Bitstream Vera Sans Bold';text-align:justify;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+     xml:space="preserve"><tspan
+       y="-1529.876"
+       x="-5102.3857"
+       id="tspan9393"
+       sodipodi:role="line"
+       style="font-size:14px;line-height:1.25"> </tspan></text>
+  <g
+     id="g9395"
+     style="display:none"
+     inkscape:label="layer1"
+     transform="translate(-1889.2186,-1135.925)" />
+  <g
+     id="g9397"
+     style="display:inline"
+     inkscape:label="glow"
+     transform="translate(-1889.2186,-1135.925)" />
+  <g
+     transform="translate(539.84237,-2615.8045)"
+     id="g9399"
+     style="display:none"
+     inkscape:label="layer1" />
+  <g
+     transform="translate(539.84237,-2615.8045)"
+     id="g9401"
+     style="display:inline"
+     inkscape:label="glow" />
+  <g
+     transform="translate(585.82017,-1646.9418)"
+     id="g9403"
+     inkscape:label="Layer 1" />
+  <g
+     transform="translate(2372.1107,-1263.4837)"
+     id="g9405"
+     inkscape:label="Layer 1" />
+  <g
+     transform="translate(3476.9359,-2141.753)"
+     id="g9407"
+     inkscape:label="Layer 1" />
+  <g
+     transform="translate(1079.0662,-2157.1003)"
+     id="g9409"
+     inkscape:label="Layer 1" />
+  <g
+     transform="translate(-271.75133,-828.48858)"
+     id="g9411"
+     inkscape:label="Layer 1" />
+  <g
+     transform="translate(833.07387,-1706.7579)"
+     id="g9413"
+     inkscape:label="Layer 1" />
+  <g
+     transform="translate(-1564.7958,-1722.1052)"
+     id="g9415"
+     inkscape:label="Layer 1" />
+  <g
+     transform="translate(1874.7487,-836.48858)"
+     id="g9417"
+     inkscape:label="Layer 1" />
+  <g
+     transform="translate(2979.5739,-1714.7579)"
+     id="g9419"
+     inkscape:label="Layer 1" />
+  <g
+     transform="translate(581.70417,-1730.1052)"
+     id="g9421"
+     inkscape:label="Layer 1" />
+  <g
+     style="opacity:0.45945943"
+     transform="matrix(1,0,0,-1,-589.21863,-375.53153)"
+     id="g9423" />
+  <text
+     id="text9425"
+     y="-878.56281"
+     x="-365.21863"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:'Gill Sans';-inkscape-font-specification:'Bitstream Vera Sans Bold';text-align:justify;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+     xml:space="preserve"><tspan
+       y="-878.56281"
+       x="-365.21863"
+       id="tspan9427"
+       sodipodi:role="line"
+       style="font-size:14px;line-height:1.25"> </tspan></text>
+  <g
+     transform="translate(956.53137,-2429.7363)"
+     inkscape:label="layer1"
+     style="display:none"
+     id="g9429" />
+  <g
+     transform="translate(956.53137,-2429.7363)"
+     inkscape:label="glow"
+     style="display:inline"
+     id="g9431" />
+  <g
+     inkscape:label="layer1"
+     style="display:none"
+     id="g9433"
+     transform="translate(3385.5924,-3909.6158)" />
+  <g
+     inkscape:label="glow"
+     style="display:inline"
+     id="g9435"
+     transform="translate(3385.5924,-3909.6158)" />
+  <g
+     inkscape:label="Layer 1"
+     id="g9437"
+     transform="translate(3431.5702,-2940.753)" />
+  <g
+     inkscape:label="Layer 1"
+     id="g9439"
+     transform="translate(5217.8607,-2557.295)" />
+  <g
+     inkscape:label="Layer 1"
+     id="g9441"
+     transform="translate(6322.6859,-3435.5644)" />
+  <g
+     inkscape:label="Layer 1"
+     id="g9443"
+     transform="translate(3924.8162,-3450.9115)" />
+  <g
+     inkscape:label="Layer 1"
+     id="g9445"
+     transform="translate(2573.9987,-2122.2999)" />
+  <g
+     inkscape:label="Layer 1"
+     id="g9447"
+     transform="translate(3678.8239,-3000.5693)" />
+  <g
+     inkscape:label="Layer 1"
+     id="g9449"
+     transform="translate(1280.9542,-3015.9165)" />
+  <g
+     inkscape:label="Layer 1"
+     id="g9451"
+     transform="translate(4720.4987,-2130.2999)" />
+  <g
+     inkscape:label="Layer 1"
+     id="g9453"
+     transform="translate(5825.3239,-3008.5693)" />
+  <g
+     inkscape:label="Layer 1"
+     id="g9455"
+     transform="translate(3427.4542,-3023.9165)" />
+  <g
+     id="g9457"
+     transform="matrix(1,0,0,-1,2256.5314,-1669.3429)"
+     style="opacity:0.45945943" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:'Gill Sans';-inkscape-font-specification:'Bitstream Vera Sans Bold';text-align:justify;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+     x="2480.5315"
+     y="-2172.374"
+     id="text9459"><tspan
+       sodipodi:role="line"
+       id="tspan9461"
+       x="2480.5315"
+       y="-2172.374"
+       style="font-size:14px;line-height:1.25"> </tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Dutch801 Rm BT';-inkscape-font-specification:'Dutch801 Rm BT';text-align:justify;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+     x="136.53137"
+     y="-1075.6254"
+     id="text9463"><tspan
+       sodipodi:role="line"
+       id="tspan9465"
+       x="136.53137"
+       y="-1075.6254"
+       style="font-size:144px;line-height:1.25"> </tspan></text>
+  <rect
+     ry="1.0044894"
+     rx="0"
+     y="1.8577781"
+     x="0"
+     height="1.0044894"
+     width="2.0329318"
+     id="hint-stretch-borders"
+     style="fill:#001e2c;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.69541049;opacity:0" />
+  <rect
+     transform="matrix(1,0,0,-0.48359579,0,0.44428813)"
+     inkscape:label="#sunken-center"
+     y="-17"
+     x="11.032933"
+     height="13.009955"
+     width="27"
+     id="base-center"
+     style="opacity:0.01000001;fill:#ffffff;fill-opacity:0.31372549;stroke:none;filter:url(#filter1304)" />
+  <g
+     style="opacity:1;fill:#131718;fill-opacity:1"
+     id="base-top"
+     transform="matrix(0.99971025,0,0,-0.47179754,69.769641,32.507242)"
+     inkscape:label="#sunken-top">
+    <path
+       style="opacity:0.01000001;fill:#ffffff;fill-opacity:0.31372549;stroke:none;filter:url(#filter1396)"
+       d="m -58.753721,63.859103 27.007829,1e-6 v 4.100033 l -27.007829,-6e-6 z"
+       id="path11228"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc" />
+  </g>
+  <g
+     transform="matrix(1,0,0,-0.48359579,-5.2599515,12.109259)"
+     id="base-bottom">
+    <rect
+       y="3.1207829"
+       x="16.292894"
+       height="4.0005374"
+       width="27"
+       id="rect11232"
+       style="opacity:0.01000001;fill:#ffffff;fill-opacity:0.31372549;stroke:none;filter:url(#filter1336)" />
+  </g>
+  <g
+     transform="matrix(1,0,0,-0.48359579,-5.2599515,12.109259)"
+     inkscape:label="#sunken-bottomright"
+     id="base-bottomright">
+    <path
+       style="opacity:0.01000001;fill:#ffffff;fill-opacity:0.31372549;stroke:none;filter:url(#filter1496)"
+       d="m 47.292893,7.1213203 h -4.000001 v -4 c 2.966977,0 3.955969,1.0137234 4.000001,4 z"
+       id="path11238"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc" />
+  </g>
+  <g
+     transform="matrix(0.99034188,0,0,-0.48359579,-4.8418215,12.083072)"
+     inkscape:label="#sunken-right"
+     id="base-right">
+    <rect
+       style="opacity:0.01000001;fill:#ffffff;fill-opacity:0.31372549;stroke:none;filter:url(#filter1472)"
+       id="rect11244"
+       width="13"
+       height="4.0445232"
+       x="7.0671706"
+       y="-47.337414"
+       transform="rotate(90)" />
+  </g>
+  <g
+     transform="matrix(1,0,0,-0.48359579,-5.2599515,12.109259)"
+     id="base-topright">
+    <path
+       style="opacity:0.01000001;fill:#ffffff;fill-opacity:0.31372549;stroke:none;filter:url(#filter1448)"
+       d="m 47.292893,20.12132 c 0,3 -1,4 -4,4 v -4 z"
+       id="path11250"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc" />
+  </g>
+  <g
+     transform="matrix(0.98937601,0,0,-0.48359579,-5.1293715,12.109259)"
+     id="base-topleft">
+    <path
+       style="opacity:0.01000001;fill:#ffffff;fill-opacity:0.31372549;stroke:none;filter:url(#filter1428)"
+       d="m 16.335862,20.12132 v 4 c -3.032214,0 -4.042952,-1 -4.044524,-4 z"
+       id="path11256"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc" />
+  </g>
+  <g
+     transform="matrix(0.98841025,0,0,-0.48359579,-5.1072115,12.083072)"
+     id="base-left">
+    <rect
+       inkscape:label="#normal-left"
+       transform="rotate(90)"
+       y="-16.329405"
+       x="7.0671706"
+       height="4.0469027"
+       width="13"
+       id="rect11262"
+       style="opacity:0.01000001;fill:#ffffff;fill-opacity:0.31372549;stroke:none;filter:url(#filter1376)" />
+  </g>
+  <g
+     transform="matrix(1,0,0,-0.48359579,-5.2599515,12.109259)"
+     id="base-bottomleft">
+    <path
+       style="opacity:0.01000001;fill:#ffffff;fill-opacity:0.31372549;stroke:none;filter:url(#filter1356)"
+       d="m 16.292893,3.1213203 v 4 h -4.008011 c 0.0079,-2.9862766 0.998911,-4 4.008011,-4 z"
+       id="path11268"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc" />
+  </g>
+  <rect
+     style="opacity:0;fill:url(#linearGradient10227);fill-opacity:1;stroke:none;stroke-width:0.77878743"
+     id="focus-center"
+     width="27"
+     height="7.890666"
+     x="11.032921"
+     y="-31.173691"
+     inkscape:label="#sunken-center"
+     transform="scale(1,-1)" />
+  <g
+     inkscape:label="#sunken-top"
+     transform="matrix(0.99971025,0,0,-0.59171286,69.76963,61.075321)"
+     id="focus-top"
+     style="opacity:0;fill:#131718;fill-opacity:1">
+    <path
+       sodipodi:nodetypes="ccccc"
+       inkscape:connector-curvature="0"
+       id="path5287"
+       d="m -58.753721,63.859103 27.007829,1e-6 v 4.100033 l -27.007829,-6e-6 z"
+       style="fill:url(#linearGradient10235);fill-opacity:1;stroke:none" />
+  </g>
+  <g
+     id="focus-bottom"
+     transform="matrix(1,0,0,-0.60650983,-5.2599625,35.492842)">
+    <rect
+       style="opacity:0;fill:url(#linearGradient19996);fill-opacity:1;stroke:none"
+       id="rect5291"
+       width="27"
+       height="4.0005374"
+       x="16.292894"
+       y="3.1207829" />
+    <rect
+       style="fill:#001e2c;fill-opacity:1;stroke:none;opacity:0.01"
+       id="rect5293"
+       width="27"
+       height="1"
+       x="16.292894"
+       y="3.1213202" />
+  </g>
+  <g
+     id="focus-bottomright"
+     inkscape:label="#sunken-bottomright"
+     transform="matrix(1,0,0,-0.60650983,-5.2599625,35.492842)"
+     style="opacity:0">
+    <path
+       sodipodi:nodetypes="cccc"
+       inkscape:connector-curvature="0"
+       id="path5297"
+       d="m 47.292893,7.1213203 h -4.000001 v -4 c 2.966977,0 3.955969,1.0137234 4.000001,4 z"
+       style="fill:url(#linearGradient20012);fill-opacity:1;stroke:none" />
+  </g>
+  <g
+     id="focus-right"
+     inkscape:label="#sunken-right"
+     transform="matrix(0.99034188,0,0,-0.60650983,-4.8418325,35.459999)"
+     style="opacity:0">
+    <rect
+       transform="rotate(90)"
+       y="-47.337414"
+       x="7.0671706"
+       height="4.0445232"
+       width="13"
+       id="rect5303"
+       style="fill:url(#linearGradient10211);fill-opacity:1;stroke:none" />
+  </g>
+  <g
+     id="focus-topright"
+     transform="matrix(1,0,0,-0.60650983,-5.2599625,35.492842)"
+     style="opacity:0">
+    <path
+       sodipodi:nodetypes="cccc"
+       inkscape:connector-curvature="0"
+       id="path5309"
+       d="m 47.292893,20.12132 c 0,3 -1,4 -4,4 v -4 z"
+       style="fill:url(#linearGradient10219);fill-opacity:1;stroke:none" />
+  </g>
+  <g
+     id="focus-topleft"
+     transform="matrix(0.98937601,0,0,-0.60650983,-5.1293825,35.492842)"
+     style="opacity:0">
+    <path
+       sodipodi:nodetypes="cccc"
+       inkscape:connector-curvature="0"
+       id="path5315"
+       d="m 16.335862,20.12132 v 4 c -3.032214,0 -4.042952,-1 -4.044524,-4 z"
+       style="fill:url(#linearGradient10203);fill-opacity:1;stroke:none" />
+  </g>
+  <g
+     id="focus-left"
+     transform="matrix(0.98841025,0,0,-0.60650983,-5.1072225,35.459999)"
+     style="opacity:0">
+    <rect
+       style="fill:url(#linearGradient10189);fill-opacity:1;stroke:none"
+       id="rect5321"
+       width="13"
+       height="4.0469027"
+       x="7.0671706"
+       y="-16.329405"
+       transform="rotate(90)"
+       inkscape:label="#normal-left" />
+  </g>
+  <g
+     id="focus-bottomleft"
+     transform="matrix(1,0,0,-0.60650983,-5.2599625,35.492842)"
+     style="opacity:0">
+    <path
+       sodipodi:nodetypes="cccc"
+       inkscape:connector-curvature="0"
+       id="path5327"
+       d="m 16.292893,3.1213203 v 4 h -4.008011 c 0.0079,-2.9862766 0.998911,-4 4.008011,-4 z"
+       style="fill:url(#linearGradient20004);fill-opacity:1;stroke:none" />
+  </g>
+</svg>
