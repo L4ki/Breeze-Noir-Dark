@@ -13,3 +13,8 @@ Changelog: 11.05.2020.
 ----------------------
 
 Redesigned Theme
+
+Changelog: 08.06.2020.
+---------------------
+
+Widgets correction: Slider.svg, tabbar.svg, tasks.svg
