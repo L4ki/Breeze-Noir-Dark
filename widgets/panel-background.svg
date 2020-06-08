@@ -1,6 +1,4 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
@@ -15,7 +13,7 @@
    height="64"
    id="svg3642"
    sodipodi:docname="panel-background.svg"
-   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)">
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#000000"
@@ -26,18 +24,19 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1015"
+     inkscape:window-height="1017"
      id="namedview208"
      showgrid="false"
-     inkscape:zoom="6.9034854"
-     inkscape:cx="-20.693007"
-     inkscape:cy="32.064391"
+     inkscape:zoom="4.1229149"
+     inkscape:cx="34.328821"
+     inkscape:cy="23.113894"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg3642"
      showguides="false"
-     inkscape:lockguides="true" />
+     inkscape:lockguides="true"
+     inkscape:document-rotation="0" />
   <metadata
      id="metadata234">
     <rdf:RDF>
@@ -78,7 +77,7 @@
      x="0"
      y="0"
      id="rect3966"
-     style="fill:#ffffff;fill-opacity:1;stroke:none" />
+     style="fill:#ffffff;fill-opacity:1;stroke:none;opacity:0.01" />
   <g
      transform="translate(-1453.4451,-465.21909)"
      id="g4418"
@@ -134,7 +133,7 @@
      y="-207.8569"
      id="text6990"
      xml:space="preserve"
-     style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:justify;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Gill Sans"><tspan
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14px;line-height:125%;font-family:'Gill Sans';text-align:justify;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"><tspan
        x="70.554916"
        y="-207.8569"
        id="tspan6992" /></text>
@@ -217,7 +216,7 @@
      y="104.00001"
      id="text4270"
      xml:space="preserve"
-     style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:justify;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Gill Sans"><tspan
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14px;line-height:125%;font-family:'Gill Sans';text-align:justify;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"><tspan
        x="-395.565"
        y="104.00001"
        id="tspan4272" /></text>
@@ -282,7 +281,7 @@
      y="-466.29276"
      id="text5336"
      xml:space="preserve"
-     style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:justify;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Gill Sans;-inkscape-font-specification:Bitstream Vera Sans Bold"><tspan
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14px;line-height:125%;font-family:'Gill Sans';-inkscape-font-specification:'Bitstream Vera Sans Bold';text-align:justify;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"><tspan
        x="49.490318"
        y="-466.29276"
        id="tspan5338" /></text>
@@ -379,7 +378,7 @@
      y="-627.54346"
      id="text5505"
      xml:space="preserve"
-     style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:justify;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Gill Sans;-inkscape-font-specification:Bitstream Vera Sans Bold"><tspan
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14px;line-height:125%;font-family:'Gill Sans';-inkscape-font-specification:'Bitstream Vera Sans Bold';text-align:justify;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"><tspan
        x="-5326.4268"
        y="-627.54346"
        id="tspan5507" /></text>
@@ -438,7 +437,7 @@
      y="23.76976"
      id="text6588"
      xml:space="preserve"
-     style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:justify;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Gill Sans;-inkscape-font-specification:Bitstream Vera Sans Bold"><tspan
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14px;line-height:125%;font-family:'Gill Sans';-inkscape-font-specification:'Bitstream Vera Sans Bold';text-align:justify;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"><tspan
        x="-589.2597"
        y="23.76976"
        id="tspan6590" /></text>
@@ -497,7 +496,7 @@
      y="-1270.0415"
      id="text9074"
      xml:space="preserve"
-     style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:justify;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Gill Sans;-inkscape-font-specification:Bitstream Vera Sans Bold"><tspan
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14px;line-height:125%;font-family:'Gill Sans';-inkscape-font-specification:'Bitstream Vera Sans Bold';text-align:justify;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"><tspan
        x="2256.4902"
        y="-1270.0415"
        id="tspan9076" /></text>
@@ -743,33 +742,33 @@
      x="-4.5329394"
      y="-22.917648"
      id="hint-stretch-borders"
-     style="opacity:1;fill:#000000;fill-opacity:1;stroke:none" />
+     style="opacity:0.01;fill:#000000;fill-opacity:1;stroke:none" />
   <rect
      width="14"
      height="4"
      x="-0.17764512"
      y="29.727062"
      id="hint-left-margin"
-     style="opacity:1;fill:#005379;fill-opacity:1;stroke:none" />
+     style="opacity:0.01;fill:#005379;fill-opacity:1;stroke:none" />
   <rect
      width="4"
      height="14"
      x="29.467056"
      y="-0.91764879"
      id="hint-top-margin"
-     style="opacity:1;fill:#005379;fill-opacity:1;stroke:none" />
+     style="opacity:0.01;fill:#005379;fill-opacity:1;stroke:none" />
   <rect
      width="4"
      height="14"
      x="29.467056"
      y="51.082355"
      id="hint-bottom-margin"
-     style="fill:#005379;fill-opacity:1;stroke:none" />
+     style="fill:#005379;fill-opacity:1;stroke:none;opacity:0.01" />
   <rect
      width="14"
      height="4"
      x="50.316471"
      y="29.727062"
      id="hint-right-margin"
-     style="opacity:1;fill:#005379;fill-opacity:1;stroke:none" />
+     style="opacity:0.01;fill:#005379;fill-opacity:1;stroke:none" />
 </svg>
