@@ -18,3 +18,13 @@ Changelog: 08.06.2020.
 ---------------------
 
 Widgets correction: Slider.svg, tabbar.svg, tasks.svg
+
+Changelog: 28.06.2020.
+---------------------
+
+
+Icon correction: window.svg
+
+Widget correction: pager.svg
+
+Added widget: plasmoidheading.svg
