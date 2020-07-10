@@ -28,3 +28,9 @@ Icon correction: window.svg
 Widget correction: pager.svg
 
 Added widget: plasmoidheading.svg
+
+Changelog: 10.07.2020
+---------------------
+
+
+Widgets correction: background.svg, button.svg
