@@ -18,7 +18,7 @@
    viewBox="0 0 200.72326 45.447437">
   <sodipodi:namedview
      inkscape:document-rotation="0"
-     inkscape:lockguides="false"
+     inkscape:lockguides="true"
      showguides="false"
      inkscape:measure-end="4.25,-15.375"
      inkscape:measure-start="9.75,-27.5"
@@ -36,10 +36,10 @@
      inkscape:window-height="1015"
      inkscape:document-units="px"
      id="namedview99"
-     showgrid="false"
-     inkscape:zoom="3.3906311"
-     inkscape:cx="124.44251"
-     inkscape:cy="-15.195194"
+     showgrid="true"
+     inkscape:zoom="22.627416"
+     inkscape:cx="172.38866"
+     inkscape:cy="32.594559"
      inkscape:current-layer="svg2"
      fit-margin-top="10"
      fit-margin-left="10"
@@ -1118,14 +1118,6 @@
          offset="0"
          id="stop1911" />
     </linearGradient>
-    <linearGradient
-       osb:paint="solid"
-       id="focus-6">
-      <stop
-         id="stop6390"
-         offset="0"
-         style="stop-color:#f2f2f2;stop-opacity:1;" />
-    </linearGradient>
   </defs>
   <metadata
      id="metadata7">
@@ -1140,21 +1132,21 @@
     </rdf:RDF>
   </metadata>
   <path
-     style="opacity:0.03;fill:#c8e0e7;fill-opacity:1;stroke-width:0.547722"
-     d="m 139.26264,11.947431 h 5 c 0.001,-1.497394 -0.001,-1.498828 -5,-1.5 z"
+     style="opacity:0.05;fill:#c8e0e7;fill-opacity:1;stroke-width:0.6316334"
+     d="m 139.26264,12.442235 h 5 c 0.001,-1.991338 -0.001,-1.993246 -5,-1.994804 z"
      id="south-active-tab-topright"
      inkscape:connector-curvature="0"
      sodipodi:nodetypes="cccc" />
   <rect
-     style="opacity:0.03;fill:#c8e0e7;fill-opacity:1;stroke-width:0.547722"
-     height="1.5"
+     style="opacity:0.05;fill:#c8e0e7;fill-opacity:1;stroke-width:0.63163352"
+     height="1.994804"
      width="15"
      x="124.26264"
      transform="scale(1,-1)"
-     y="-11.947432"
+     y="-12.442235"
      id="south-active-tab-top" />
   <rect
-     style="opacity:0.03;fill:#c8e0e7;fill-opacity:1;stroke-width:1.00000012"
+     style="opacity:0.05;fill:#c8e0e7;fill-opacity:1;stroke-width:1.00000012"
      height="15"
      width="5"
      x="119.26264"
@@ -1162,7 +1154,7 @@
      y="-30.447437"
      id="south-active-tab-left" />
   <rect
-     style="opacity:0.03;fill:#c8e0e7;fill-opacity:1;stroke-width:1.00000012"
+     style="opacity:0.05;fill:#c8e0e7;fill-opacity:1;stroke-width:1.00000012"
      height="15"
      width="5"
      x="139.26263"
@@ -1170,7 +1162,7 @@
      y="-30.447437"
      id="south-active-tab-right" />
   <rect
-     style="opacity:0.03;fill:#c8e0e7;fill-opacity:1"
+     style="opacity:0.05;fill:#c8e0e7;fill-opacity:1"
      height="15"
      width="15"
      x="124.26264"
@@ -1178,7 +1170,7 @@
      y="-30.447437"
      id="south-active-tab-center" />
   <g
-     style="fill:#2a4c76;fill-opacity:1"
+     style="fill:#c8e0e7;fill-opacity:1"
      id="south-active-tab-bottom"
      transform="translate(110.77233,-6.7990751)">
     <rect
@@ -1187,36 +1179,36 @@
        height="3"
        width="14.999999"
        id="rect4334"
-       style="opacity:0.03;fill:#c8e0e7;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:5.47801113;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+       style="opacity:0.05;fill:#c8e0e7;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:5.47801;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <rect
-       style="opacity:1;fill:#c8e0e7;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:3.46459842;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="opacity:1;fill:#c8e0e7;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2.68367;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        class="ColorScheme-Highlight"
        id="AAA"
        width="15"
-       height="2"
+       height="1.2"
        x="13.490312"
-       y="40.246513" />
+       y="41.046074" />
   </g>
   <path
-     style="opacity:0.03;fill:#c8e0e7;fill-opacity:1;stroke-width:0.547723"
-     d="m 165.72322,11.947071 h 5 v -1.5 c -4.99913,0.0021 -4.9961,0.0045 -5,1.5 z"
+     style="opacity:0.05;fill:#c8e0e7;fill-opacity:1;stroke-width:0.63163215"
+     d="m 165.72322,12.441867 h 5 v -1.994796 c -4.99913,0.0026 -4.9961,0.006 -5,1.994796 z"
      id="north-active-tab-topleft"
      inkscape:connector-curvature="0"
      sodipodi:nodetypes="cccc" />
   <path
-     style="opacity:0.03;fill:#c8e0e7;fill-opacity:1;stroke-width:0.547723"
-     d="m 185.72322,11.947071 h 5 c 0.001,-1.499738 -0.001,-1.498828 -5,-1.5 z"
+     style="opacity:0.05;fill:#c8e0e7;fill-opacity:1;stroke-width:0.63163215"
+     d="m 185.72322,12.441867 h 5 c 0.001,-1.994447 -0.001,-1.993238 -5,-1.994796 z"
      id="north-active-tab-topright"
      inkscape:connector-curvature="0"
      sodipodi:nodetypes="cccc" />
   <rect
      id="north-active-tab-top"
-     y="-11.947067"
+     y="-12.441863"
      transform="scale(1,-1)"
      x="170.72322"
      width="15"
-     height="1.5"
-     style="opacity:0.03;fill:#c8e0e7;fill-opacity:1;stroke-width:0.547723" />
+     height="1.9947962"
+     style="opacity:0.05;fill:#c8e0e7;fill-opacity:1;stroke-width:0.63163227" />
   <rect
      id="north-active-tab-left"
      y="-30.447073"
@@ -1224,7 +1216,7 @@
      x="165.72322"
      width="5"
      height="15"
-     style="opacity:0.03;fill:#c8e0e7;fill-opacity:1;stroke-width:1.00000012" />
+     style="opacity:0.05;fill:#c8e0e7;fill-opacity:1;stroke-width:1.00000012" />
   <rect
      id="north-active-tab-right"
      y="-30.447073"
@@ -1232,7 +1224,7 @@
      x="185.72322"
      width="5"
      height="15"
-     style="opacity:0.03;fill:#c8e0e7;fill-opacity:1;stroke-width:1.00000012" />
+     style="opacity:0.05;fill:#c8e0e7;fill-opacity:1;stroke-width:1.00000012" />
   <rect
      id="north-active-tab-center"
      y="-30.447073"
@@ -1240,54 +1232,54 @@
      x="170.72322"
      width="15"
      height="15"
-     style="opacity:0.03;fill:#c8e0e7;fill-opacity:1" />
+     style="opacity:0.05;fill:#c8e0e7;fill-opacity:1" />
   <g
-     style="fill:#2a4c76;fill-opacity:1"
+     style="fill:#c8e0e7;fill-opacity:1"
      id="south-active-tab-bottomright"
      transform="translate(105.89446,-0.10971173)">
     <rect
-       style="opacity:0.03;fill:#c8e0e7;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2.44984102;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="opacity:0.05;fill:#c8e0e7;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2.44984;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect2045"
        width="5"
        height="3"
        x="33.368179"
        y="30.55715" />
     <path
-       style="opacity:1;fill:#c8e0e7;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2.00028682;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="opacity:1;fill:#c8e0e7;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.54941;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        class="ColorScheme-Highlight"
-       d="m 33.368178,33.55715 h 5 c -10e-7,2 -10e-7,2 -5,2 z"
+       d="m 33.368178,34.356712 h 5 c -10e-7,1.2 -10e-7,1.2 -5,1.2 z"
        id="CCC"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccc" />
   </g>
   <g
-     style="fill:#2a4c76;fill-opacity:1"
+     style="fill:#c8e0e7;fill-opacity:1"
      transform="translate(157.23291,-6.7994365)"
      id="north-active-tab-bottom">
     <rect
-       style="opacity:0.03;fill:#c8e0e7;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:5.47801113;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="opacity:0.05;fill:#c8e0e7;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:5.47801;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect2065"
        width="14.999998"
        height="3"
        x="13.490312"
        y="37.246513" />
     <rect
-       y="40.246513"
+       y="41.046436"
        x="13.490312"
-       height="2"
+       height="1.2"
        width="15"
        id="DDD"
        class="ColorScheme-Highlight"
-       style="opacity:1;fill:#c8e0e7;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:3.46459842;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+       style="opacity:1;fill:#c8e0e7;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2.68367;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
   </g>
   <path
      sodipodi:nodetypes="cccc"
      inkscape:connector-curvature="0"
      id="south-active-tab-topleft"
-     d="m 119.26264,11.947439 h 5 v -1.5 c -4.99912,0.0019 -4.99609,0.0045 -5,1.5 z"
-     style="opacity:0.03;fill:#c8e0e7;fill-opacity:1;stroke-width:0.547722" />
+     d="m 119.26264,12.442235 h 5 v -1.994796 c -4.99912,0.0026 -4.99609,0.006 -5,1.994796 z"
+     style="opacity:0.05;fill:#c8e0e7;fill-opacity:1;stroke-width:0.63163215" />
   <g
-     style="fill:#2a4c76;fill-opacity:1"
+     style="fill:#c8e0e7;fill-opacity:1"
      transform="matrix(-1,0,0,1,157.63082,-0.10971166)"
      id="south-active-tab-bottomleft">
     <rect
@@ -1296,36 +1288,36 @@
        height="3"
        width="5"
        id="rect881"
-       style="opacity:0.03;fill:#c8e0e7;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2.44984102;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+       style="opacity:0.1;fill:#c8e0e7;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2.44984;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <path
        sodipodi:nodetypes="cccc"
        inkscape:connector-curvature="0"
        id="BBB"
        class="ColorScheme-Highlight"
-       d="m 33.368178,33.55715 h 5 c -10e-7,2 -10e-7,2 -5,2 z"
-       style="opacity:1;fill:#c8e0e7;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2.00028682;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+       d="m 33.368178,34.356712 h 5 c -10e-7,1.2 -10e-7,1.2 -5,1.2 z"
+       style="opacity:1;fill:#c8e0e7;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.54941;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
   </g>
   <g
-     style="fill:#2a4c76;fill-opacity:1"
+     style="fill:#c8e0e7;fill-opacity:1"
      id="north-active-tab-bottomleft"
      transform="matrix(-1,0,0,1,204.0914,-0.11007315)">
     <rect
-       style="opacity:0.03;fill:#c8e0e7;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2.44984102;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="opacity:0.05;fill:#c8e0e7;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2.44984;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect874"
        width="5"
        height="3"
        x="33.368179"
        y="30.55715" />
     <path
-       style="opacity:1;fill:#c8e0e7;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2.00028682;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 33.368178,33.55715 h 5 c -10e-7,2 -10e-7,2 -5,2 z"
+       style="opacity:1;fill:#c8e0e7;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.54941;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 33.368178,34.357073 h 5 c -10e-7,1.2 -10e-7,1.2 -5,1.2 z"
        class="ColorScheme-Highlight"
        id="GGG"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccc" />
   </g>
   <g
-     style="fill:#2a4c76;fill-opacity:1"
+     style="fill:#c8e0e7;fill-opacity:1"
      transform="translate(152.35504,-0.11007304)"
      id="north-active-tab-bottomright">
     <rect
@@ -1334,85 +1326,238 @@
        height="3"
        width="5"
        id="rect882"
-       style="opacity:0.03;fill:#c8e0e7;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2.44984102;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+       style="opacity:0.05;fill:#c8e0e7;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2.44984;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <path
        sodipodi:nodetypes="cccc"
        inkscape:connector-curvature="0"
        id="path884"
-       d="m 33.368178,33.55715 h 5 c -10e-7,2 -10e-7,2 -5,2 z"
+       d="m 33.368178,34.357073 h 5 c -10e-7,1.2 -10e-7,1.2 -5,1.2 z"
        class="ColorScheme-Highlight"
-       style="opacity:1;fill:#c8e0e7;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2.00028682;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+       style="opacity:1;fill:#c8e0e7;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.54941;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  </g>
+  <g
+     id="west-active-tab-right"
+     transform="matrix(0,1,1,0,-1017.3622,9.9999954)">
+    <g
+       id="g3277">
+      <rect
+         transform="translate(0,1027.3622)"
+         y="20"
+         x="5"
+         height="2"
+         width="15"
+         id="rect3279"
+         style="fill:#000000;fill-opacity:0;stroke:none" />
+      <rect
+         style="opacity:1;fill:#c8e0e7;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.707107"
+         id="rect3281"
+         width="15"
+         height="1"
+         x="5"
+         y="1051.3646" />
+    </g>
+  </g>
+  <g
+     transform="matrix(0,0.33333333,1,0,-1017.3622,28.333327)"
+     id="west-active-tab-bottomright">
+    <g
+       id="g3285">
+      <rect
+         style="fill:#000000;fill-opacity:0;stroke:none"
+         id="rect3287"
+         width="15"
+         height="2"
+         x="5"
+         y="20"
+         transform="translate(0,1027.3622)" />
+      <rect
+         y="1051.3646"
+         x="5"
+         height="1"
+         width="15.412115"
+         id="rect3289"
+         style="opacity:1;fill:#c8e0e7;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.13329" />
+    </g>
+  </g>
+  <g
+     id="west-active-tab-topright"
+     transform="matrix(0,-0.33333333,1,0,-1017.3622,16.666667)">
+    <g
+       id="g3293">
+      <rect
+         transform="translate(0,1027.3622)"
+         y="20"
+         x="5"
+         height="2"
+         width="15"
+         id="rect3295"
+         style="fill:#000000;fill-opacity:0;stroke:none" />
+      <rect
+         style="opacity:1;fill:#c8e0e7;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.08865"
+         id="rect3297"
+         width="14.221918"
+         height="1"
+         x="5"
+         y="1051.3646" />
+    </g>
   </g>
   <rect
-     y="-68.418167"
-     x="11.529257"
-     height="21.286356"
-     width="21.286356"
-     id="west-active-tab-center"
-     style="opacity:0.05;fill:#c8e0e7;fill-opacity:1;stroke:none;stroke-width:0.50681829;fill-rule:evenodd"
-     transform="rotate(90)" />
-  <rect
-     y="-68.924988"
-     x="11.529257"
-     height="0.50681829"
-     width="21.286356"
-     id="west-active-tab-right"
-     style="opacity:0.05;fill:#c8e0e7;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.25340915;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     transform="rotate(90)" />
-  <rect
-     style="opacity:1;fill:#c8e0e7;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.355955;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     id="west-active-tab-left"
-     width="21.286356"
-     height="1"
-     x="11.529257"
-     y="-47.624989"
-     transform="rotate(90)" />
-  <rect
-     transform="scale(-1)"
-     y="-33.322437"
-     x="-68.418167"
-     height="0.50681829"
-     width="21.286356"
-     id="west-active-tab-bottom"
-     style="opacity:0.05;fill:#c8e0e7;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.25340915;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-  <rect
-     style="opacity:0.05;fill:#c8e0e7;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.25340915;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     id="west-active-tab-top"
-     width="21.286356"
-     height="0.50681829"
-     x="-68.418159"
-     y="-11.529257"
-     transform="scale(-1)" />
-  <rect
-     y="-68.924988"
-     x="11.022451"
-     height="0.50681829"
-     width="0.50681829"
-     id="west-active-tab-topright"
-     style="opacity:0.05;fill:#c8e0e7;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.25340915;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     transform="rotate(90)" />
-  <rect
-     style="opacity:0.05;fill:#c8e0e7;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.25340915;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     id="west-active-tab-bottomright"
-     width="0.50681829"
-     height="0.50681829"
-     x="32.815632"
-     y="-68.924995"
-     transform="rotate(90)" />
-  <rect
-     y="-47.624989"
-     x="32.815632"
-     height="1"
-     width="0.50681829"
-     id="west-active-tab-bottomleft"
-     style="opacity:1;fill:#c8e0e7;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.355955;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     transform="rotate(90)" />
-  <rect
-     style="opacity:1;fill:#c8e0e7;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.355955;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     y="10.000006"
+     x="10.000005"
+     height="5"
+     width="5"
      id="west-active-tab-topleft"
-     width="0.50681829"
-     height="1"
-     x="11.022451"
-     y="-47.624989"
-     transform="rotate(90)" />
+     style="fill:#a6eeff;fill-opacity:0;stroke:none"
+     transform="matrix(0,1,1,0,0,0)" />
+  <rect
+     style="fill:#a6eeff;fill-opacity:0;stroke:none"
+     id="west-active-tab-bottomleft"
+     width="5"
+     height="5"
+     x="29.999998"
+     y="10.000006"
+     transform="matrix(0,1,1,0,0,0)" />
+  <path
+     inkscape:connector-curvature="0"
+     id="west-active-tab-left"
+     d="m 10,15.000007 v 15 h 5 v -15 z"
+     style="fill:#a6eeff;fill-opacity:0;stroke:none" />
+  <rect
+     y="15.000006"
+     x="10.000005"
+     height="15"
+     width="5"
+     id="west-active-tab-top"
+     style="fill:#a6eeff;fill-opacity:0;stroke:none"
+     transform="matrix(0,1,1,0,0,0)" />
+  <rect
+     y="15.000006"
+     x="29.999998"
+     height="15"
+     width="5"
+     id="west-active-tab-bottom"
+     style="fill:#a6eeff;fill-opacity:0;stroke:none"
+     transform="matrix(0,1,1,0,0,0)" />
+  <rect
+     y="15.000006"
+     x="15.000007"
+     height="15"
+     width="15"
+     id="west-active-tab-center"
+     style="fill:#a6eeff;fill-opacity:0;stroke:none"
+     transform="matrix(0,1,1,0,0,0)" />
+  <g
+     transform="rotate(90,563.18107,573.18113)"
+     id="east-active-tab-left">
+    <g
+       id="g3351">
+      <rect
+         style="fill:#000000;fill-opacity:0;stroke:none"
+         id="rect3353"
+         width="15"
+         height="2"
+         x="5"
+         y="20"
+         transform="translate(0,1027.3622)" />
+      <rect
+         y="1051.3622"
+         x="5"
+         height="1"
+         width="15"
+         id="rect3355"
+         style="opacity:1;fill:#c8e0e7;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.707107" />
+    </g>
+  </g>
+  <g
+     id="east-active-tab-bottomleft"
+     transform="matrix(0,0.33333333,-1,0,1136.3622,28.333327)">
+    <g
+       id="g3359">
+      <rect
+         transform="translate(0,1027.3622)"
+         y="20"
+         x="5"
+         height="2"
+         width="15"
+         id="rect3361"
+         style="fill:#000000;fill-opacity:0;stroke:none" />
+      <rect
+         style="opacity:1;fill:#c8e0e7;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.12177"
+         id="rect3363"
+         width="15.100246"
+         height="1"
+         x="5"
+         y="1051.3622" />
+    </g>
+  </g>
+  <g
+     transform="matrix(0,-0.33333333,-1,0,1136.3622,16.666667)"
+     id="east-active-tab-topleft">
+    <g
+       id="g3367">
+      <rect
+         style="fill:#000000;fill-opacity:0;stroke:none"
+         id="rect3369"
+         width="15"
+         height="2"
+         x="5"
+         y="20"
+         transform="translate(0,1027.3622)" />
+      <rect
+         y="1051.3622"
+         x="5"
+         height="1"
+         width="14.221917"
+         id="rect3371"
+         style="opacity:1;fill:#c8e0e7;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.08865" />
+    </g>
+  </g>
+  <rect
+     transform="rotate(90)"
+     style="fill:#a6eeff;fill-opacity:0;stroke:none"
+     id="east-active-tab-topright"
+     width="5"
+     height="5"
+     x="10.000005"
+     y="-109" />
+  <rect
+     transform="rotate(90)"
+     y="-109"
+     x="29.999998"
+     height="5"
+     width="5"
+     id="east-active-tab-bottomright"
+     style="fill:#a6eeff;fill-opacity:0;stroke:none" />
+  <rect
+     transform="rotate(90)"
+     style="fill:#a6eeff;fill-opacity:0;stroke:none"
+     id="east-active-tab-right"
+     width="15"
+     height="5"
+     x="15.000007"
+     y="-109" />
+  <rect
+     transform="rotate(90)"
+     style="fill:#a6eeff;fill-opacity:0;stroke:none"
+     id="east-active-tab-top"
+     width="5"
+     height="15"
+     x="10.000005"
+     y="-104" />
+  <rect
+     transform="rotate(90)"
+     style="fill:#a6eeff;fill-opacity:0;stroke:none"
+     id="east-active-tab-bottom"
+     width="5"
+     height="15"
+     x="29.999998"
+     y="-104" />
+  <rect
+     transform="rotate(90)"
+     style="fill:#a6eeff;fill-opacity:0;stroke:none"
+     id="east-active-tab-center"
+     width="15"
+     height="15"
+     x="15.000007"
+     y="-104" />
 </svg>

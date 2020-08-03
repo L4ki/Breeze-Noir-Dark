@@ -23,9 +23,9 @@
      inkscape:window-maximized="1"
      inkscape:window-y="0"
      inkscape:window-x="0"
-     inkscape:cy="6.7510723"
-     inkscape:cx="185.88893"
-     inkscape:zoom="5.6568542"
+     inkscape:cy="-24.85133"
+     inkscape:cx="158.11693"
+     inkscape:zoom="11.313708"
      showgrid="false"
      id="namedview187"
      inkscape:window-height="1015"
@@ -467,7 +467,7 @@
        height="1"
        width="105"
        id="rect3921"
-       style="opacity:0.01;color:#3daee9;fill:#0c6395;fill-opacity:1"
+       style="color:#3daee9;opacity:0.01;fill:#0c6395;fill-opacity:1"
        class="ColorScheme-ButtonFocus" />
     <g
        id="g4202"
@@ -478,10 +478,10 @@
          height="2"
          width="55"
          id="rect5416"
-         style="fill:url(#linearGradient1051);fill-opacity:1;opacity:0.01"
+         style="opacity:0.01;fill:url(#linearGradient1051);fill-opacity:1"
          class="ColorScheme-ButtonFocus" />
       <rect
-         style="opacity:0.01000001;fill:#a1b4ba;fill-opacity:1;stroke:none"
+         style="opacity:0.01;fill:#a1b4ba;fill-opacity:1;stroke:none"
          id="rect4391"
          width="55"
          height="2"
@@ -502,41 +502,41 @@
      transform="translate(829.80716,-827.58398)">
     <path
        id="path4101"
-       d="m -719.80709,777.58403 c -1.10457,0 -2,0.89543 -2,2 l 1,0 c 0,-0.55228 0.44772,-1 1,-1 l 0,-1 z"
-       style="opacity:0.7;fill:#004563;fill-opacity:1;stroke:none"
+       d="m -719.80709,777.58403 c -1.10457,0 -2,0.89543 -2,2 h 1 c 0,-0.55228 0.44772,-1 1,-1 z"
+       style="opacity:0.263;fill:#004563;fill-opacity:1;stroke:none"
        class="ColorScheme-ButtonText" />
     <path
        transform="matrix(-0.5,0,0,-0.5,-639.80709,700.08403)"
-       d="m 162,-159 a 2,2 0 0 1 -2,2 l 0,-2 z"
+       d="m 162,-159 a 2,2 0 0 1 -2,2 v -2 z"
        id="path4105"
        style="fill:currentColor;fill-opacity:1;stroke:none"
        class="ColorScheme-ButtonBackground" />
     <path
        class="ColorScheme-ButtonBackground"
-       style="fill:#002859;fill-opacity:1;stroke:none"
+       style="fill:#001429;fill-opacity:1;stroke:none"
        id="path3967"
-       d="m 162,-159 a 2,2 0 0 1 -2,2 l 0,-2 z"
+       d="m 162,-159 a 2,2 0 0 1 -2,2 v -2 z"
        transform="matrix(-0.5,0,0,-0.5,-639.80709,700.08403)" />
   </g>
   <g
      transform="translate(829.80716,-823.58399)"
      id="normal-bottomleft">
     <path
-       style="opacity:0.7;fill:#004563;fill-opacity:1;stroke:none"
-       d="m -719.80709,812.58403 c -1.10457,0 -2,-0.89543 -2,-2 l 1,0 c 0,0.55228 0.44772,1 1,1 l 0,1 z"
+       style="opacity:0.26165555;fill:#004563;fill-opacity:1;stroke:none"
+       d="m -719.80709,812.58403 c -1.10457,0 -2,-0.89543 -2,-2 h 1 c 0,0.55228 0.44772,1 1,1 z"
        id="path4111"
        class="ColorScheme-ButtonText" />
     <path
        style="fill:currentColor;fill-opacity:1;stroke:none"
        id="path4113"
-       d="m 162,-159 a 2,2 0 0 1 -2,2 l 0,-2 z"
+       d="m 162,-159 a 2,2 0 0 1 -2,2 v -2 z"
        transform="matrix(-0.5,0,0,0.5,-639.80709,890.08403)"
        class="ColorScheme-ButtonBackground" />
     <path
        transform="matrix(-0.5,0,0,0.5,-639.80709,890.08403)"
-       d="m 162,-159 a 2,2 0 0 1 -2,2 l 0,-2 z"
+       d="m 162,-159 a 2,2 0 0 1 -2,2 v -2 z"
        id="path3919"
-       style="opacity:1;fill:#002859;fill-opacity:1;stroke:none" />
+       style="opacity:1;fill:#001429;fill-opacity:1;stroke:none" />
   </g>
   <g
      id="normal-left"
@@ -547,7 +547,7 @@
        height="21"
        width="1"
        id="rect4108"
-       style="opacity:0.7;fill:#004563;fill-opacity:1;stroke:none"
+       style="opacity:0.2801141;fill:#004563;fill-opacity:1;stroke:none"
        class="ColorScheme-ButtonText" />
     <rect
        style="fill:currentColor;fill-opacity:1;stroke:none"
@@ -564,7 +564,7 @@
        height="21"
        width="1"
        id="rect3943"
-       style="fill:#002759;fill-opacity:1;stroke:none" />
+       style="fill:#001329;fill-opacity:1;stroke:none" />
   </g>
   <g
      id="normal-top"
@@ -575,7 +575,7 @@
        height="1"
        width="55"
        id="rect3329"
-       style="opacity:0.7;fill:#004563;fill-opacity:1;stroke:none"
+       style="opacity:0.26575031;fill:#004461;fill-opacity:1;stroke:none"
        class="ColorScheme-ButtonText" />
     <rect
        style="fill:currentColor;fill-opacity:1;stroke:none"
@@ -592,13 +592,13 @@
        height="1"
        width="55"
        id="rect3965"
-       style="fill:#002959;fill-opacity:1;stroke:none" />
+       style="fill:#00132a;fill-opacity:1;stroke:none" />
   </g>
   <g
      id="normal-bottom"
      transform="matrix(1.9090909,0,0,1,1484.1774,-823.58399)">
     <rect
-       style="opacity:0.7;fill:#004563;fill-opacity:1;stroke:none"
+       style="opacity:0.25898189;fill:#004563;fill-opacity:1;stroke:none"
        id="rect4099"
        width="55"
        height="1"
@@ -614,7 +614,7 @@
        style="fill:currentColor;fill-opacity:1;stroke:none"
        class="ColorScheme-ButtonBackground" />
     <rect
-       style="opacity:1;fill:#002657;fill-opacity:1;stroke:none"
+       style="opacity:1;fill:#001229;fill-opacity:1;stroke:none"
        id="rect3149"
        width="55"
        height="1"
@@ -625,42 +625,42 @@
      id="normal-topright"
      transform="translate(879.80713,-827.58398)">
     <path
-       style="opacity:0.7;fill:#004563;fill-opacity:1;stroke:none"
-       d="m -664.80709,777.58403 c 1.10457,0 2,0.89543 2,2 l -1,0 c 0,-0.55228 -0.44772,-1 -1,-1 l 0,-1 z"
+       style="opacity:0.24180346;fill:#004563;fill-opacity:1;stroke:none"
+       d="m -664.80709,777.58403 c 1.10457,0 2,0.89543 2,2 h -1 c 0,-0.55228 -0.44772,-1 -1,-1 z"
        id="path4121"
        class="ColorScheme-ButtonText" />
     <path
        style="fill:currentColor;fill-opacity:1;stroke:none"
        id="path4123"
-       d="m 162,-159 a 2,2 0 0 1 -2,2 l 0,-2 z"
+       d="m 162,-159 a 2,2 0 0 1 -2,2 v -2 z"
        transform="matrix(0.5,0,0,-0.5,-744.80709,700.08403)"
        class="ColorScheme-ButtonBackground" />
     <path
        class="ColorScheme-ButtonBackground"
        transform="matrix(0.5,0,0,-0.5,-744.80709,700.08403)"
-       d="m 162,-159 a 2,2 0 0 1 -2,2 l 0,-2 z"
+       d="m 162,-159 a 2,2 0 0 1 -2,2 v -2 z"
        id="path3963"
-       style="fill:#002859;fill-opacity:1;stroke:none;opacity:1" />
+       style="opacity:1;fill:#001429;fill-opacity:1;stroke:none" />
   </g>
   <g
      id="normal-bottomright"
      transform="translate(879.80713,-823.58399)">
     <path
        id="path4127"
-       d="m -664.80709,812.58403 c 1.10457,0 2,-0.89543 2,-2 l -1,0 c 0,0.55228 -0.44772,1 -1,1 l 0,1 z"
-       style="opacity:0.7;fill:#004563;fill-opacity:1;stroke:none"
+       d="m -664.80709,812.58403 c 1.10457,0 2,-0.89543 2,-2 h -1 c 0,0.55228 -0.44772,1 -1,1 z"
+       style="opacity:0.26007404;fill:#004563;fill-opacity:1;stroke:none"
        class="ColorScheme-ButtonText" />
     <path
        transform="matrix(0.5,0,0,0.5,-744.80709,890.08403)"
-       d="m 162,-159 a 2,2 0 0 1 -2,2 l 0,-2 z"
+       d="m 162,-159 a 2,2 0 0 1 -2,2 v -2 z"
        id="path4130"
        style="fill:currentColor;fill-opacity:1;stroke:none"
        class="ColorScheme-ButtonBackground" />
     <path
        class="ColorScheme-ButtonBackground"
-       style="opacity:1;color:#eff0f1;fill:#002759;fill-opacity:1;stroke:none"
+       style="color:#eff0f1;opacity:1;fill:#001429;fill-opacity:1;stroke:none"
        id="path3921"
-       d="m 162,-159 a 2,2 0 0 1 -2,2 l 0,-2 z"
+       d="m 162,-159 a 2,2 0 0 1 -2,2 v -2 z"
        transform="matrix(0.5,0,0,0.5,-744.80709,890.08403)" />
   </g>
   <g
@@ -668,7 +668,7 @@
      transform="matrix(1,0,0,1.666664,879.80713,-1363.9712)">
     <rect
        transform="scale(-1,1)"
-       style="opacity:0.7;fill:#004563;fill-opacity:1;stroke:none"
+       style="opacity:0.24883547;fill:#004563;fill-opacity:1;stroke:none"
        id="rect4125"
        width="1"
        height="21"
@@ -685,7 +685,7 @@
        class="ColorScheme-ButtonBackground" />
     <rect
        class="ColorScheme-ButtonBackground"
-       style="fill:#002659;fill-opacity:1;stroke:none"
+       style="fill:#001329;fill-opacity:1;stroke:none"
        id="rect3953"
        width="1"
        height="21"
@@ -701,9 +701,9 @@
        height="34.999943"
        width="105"
        id="rect3935"
-       style="color:#eff0f1;opacity:0.01000001;fill:#707880;fill-opacity:1;stroke:none" />
+       style="color:#eff0f1;opacity:0.01;fill:#707880;fill-opacity:1;stroke:none" />
     <rect
-       style="color:#eff0f1;opacity:0.01000001;fill:#000914;fill-opacity:1;stroke:none"
+       style="color:#eff0f1;opacity:0.01;fill:#000914;fill-opacity:1;stroke:none"
        id="rect3933"
        width="105"
        height="34.999943"
@@ -785,7 +785,7 @@
        height="1"
        width="55"
        id="rect3396"
-       style="fill:#000914;fill-opacity:1;stroke:none;opacity:0.01" />
+       style="opacity:0.01;fill:#000914;fill-opacity:1;stroke:none" />
   </g>
   <g
      transform="matrix(1.9090909,0,0,1,1484.1774,-767.58399)"
@@ -799,7 +799,7 @@
        id="rect3400"
        style="opacity:1;fill:#004563;fill-opacity:1;stroke:none" />
     <rect
-       style="fill:#000914;fill-opacity:1;stroke:none;opacity:0.01"
+       style="opacity:0.01;fill:#000914;fill-opacity:1;stroke:none"
        id="rect3402"
        width="55"
        height="1"
@@ -933,10 +933,10 @@
        height="1"
        width="55"
        id="rect3450"
-       style="fill:#000914;fill-opacity:1;stroke:none;opacity:0.01"
+       style="opacity:0.01;fill:#000914;fill-opacity:1;stroke:none"
        class="ColorScheme-ButtonHover" />
     <rect
-       style="fill:#000914;fill-opacity:1;stroke:none;opacity:0.01"
+       style="opacity:0.01;fill:#000914;fill-opacity:1;stroke:none"
        id="rect3452"
        width="55"
        height="1"
@@ -944,7 +944,7 @@
        y="778.58398" />
     <rect
        class="ColorScheme-ButtonHover"
-       style="fill:#004563;fill-opacity:1;stroke:none;opacity:1"
+       style="opacity:1;fill:#004563;fill-opacity:1;stroke:none"
        id="rect3934"
        width="55"
        height="1"
