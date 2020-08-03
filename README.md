@@ -32,5 +32,9 @@ Added widget: plasmoidheading.svg
 Changelog: 10.07.2020
 ---------------------
 
-
 Widgets correction: background.svg, button.svg
+
+Changelog:03.08.2020.
+--------------------
+
+Redesigned Theme
