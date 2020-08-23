@@ -38,3 +38,10 @@ Changelog:03.08.2020.
 --------------------
 
 Redesigned Theme
+
+Changelog: 23.08.2020.
+---------------------
+
+Icon correction: window.svg
+
+Fix widgets: button.svg, viewitem.svg
