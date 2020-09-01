@@ -45,3 +45,8 @@ Changelog: 23.08.2020.
 Icon correction: window.svg
 
 Fix widgets: button.svg, viewitem.svg
+
+Changelog: 01.09.2020.
+---------------------
+
+Added icons: klipper.svg, disk.svg, drive.svg, kaffeine.svg, printer.svg
