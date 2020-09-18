@@ -50,3 +50,10 @@ Changelog: 01.09.2020.
 ---------------------
 
 Added icons: klipper.svg, disk.svg, drive.svg, kaffeine.svg, printer.svg
+
+Changelog:18.09.2020.
+--------------------
+
+Fixed icon: disk.svg
+
+Fixed widget: button.svg
