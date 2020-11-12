@@ -62,3 +62,8 @@ Changelog:24.10.2020.
 --------------------
 
 Icon correction: disk.svg, printer.svg
+
+Changelog: 12.11.2020.
+---------------------
+
+Fixed widget: panel-background.svg
