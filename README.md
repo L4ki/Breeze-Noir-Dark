@@ -67,3 +67,10 @@ Changelog: 12.11.2020.
 ---------------------
 
 Fixed widget: panel-background.svg
+
+Changelog: 27.11.2020.
+----------------------
+
+Correction widgets: tasks.svg, scrollbar.svg
+
+Correction of file colors
