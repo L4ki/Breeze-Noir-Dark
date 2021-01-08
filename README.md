@@ -74,3 +74,8 @@ Changelog: 27.11.2020.
 Correction widgets: tasks.svg, scrollbar.svg
 
 Correction of file colors
+
+Changelog: 08.01.2021.
+----------------------
+
+Redesigned Theme
