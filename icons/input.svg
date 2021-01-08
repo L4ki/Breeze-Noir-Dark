@@ -8,7 +8,7 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    sodipodi:docname="input.svg"
-   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
    id="svg"
    viewBox="0 0 22 22"
    height="100%"
@@ -33,7 +33,7 @@
      inkscape:zoom="2.8284271"
      showgrid="false"
      id="namedview18"
-     inkscape:window-height="1018"
+     inkscape:window-height="1016"
      inkscape:window-width="1920"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0"
@@ -116,7 +116,7 @@
        inkscape:connector-curvature="0" />
     <path
        class="ColorScheme-Text"
-       style="color:#7b7c7e;fill:#02f495;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       style="color:#7b7c7e;fill:#33c2ff;fill-opacity:1;fill-rule:evenodd;stroke:none"
        d="M 11.727281,2 8.8182405,6.3636 H 10.272719 V 10 L 13.18176,5.63632 h -1.454479 z"
        id="path6686-8-03"
        inkscape:connector-curvature="0"
@@ -164,7 +164,7 @@
        id="rect3908" />
     <path
        class="ColorScheme-Text"
-       style="color:#7b7c7e;fill:#33c2ff;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       style="color:#7b7c7e;fill:#00aa44;fill-opacity:1;fill-rule:evenodd;stroke:none"
        d="m 17.09092,3 -4.36356,6.5454 h 2.18172 V 15 l 4.36356,-6.5456 h -2.18172 z"
        id="path6686-8-1-8"
        inkscape:connector-curvature="0"
