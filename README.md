@@ -79,3 +79,8 @@ Changelog: 08.01.2021.
 ----------------------
 
 Redesigned Theme
+
+Changelog: 01.02.2021.
+----------------------
+
+Fixed Icons: printer.svg, drive.svg, update.svg
