@@ -84,3 +84,10 @@ Changelog: 01.02.2021.
 ----------------------
 
 Fixed Icons: printer.svg, drive.svg, update.svg
+
+Changelog: 11.02.2021.
+---------------------
+
+Icon correction: input.svg, cantata.svg
+
+Added icon: kate.svg 
