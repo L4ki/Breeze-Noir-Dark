@@ -91,3 +91,10 @@ Changelog: 11.02.2021.
 Icon correction: input.svg, cantata.svg
 
 Added icon: kate.svg 
+
+Changelog: 18.02.2021.
+----------------------
+
+Widget correction: scrollbar.svg
+
+Changed icon: medium.svg 
