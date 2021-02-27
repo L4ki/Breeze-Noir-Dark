@@ -98,3 +98,10 @@ Changelog: 18.02.2021.
 Widget correction: scrollbar.svg
 
 Changed icon: medium.svg 
+
+Changelog: 27.02.2021.
+----------------------
+
+Fixed icon: redshift.svg
+
+Fixed widget: tasks.svg
