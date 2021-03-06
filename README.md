@@ -105,3 +105,10 @@ Changelog: 27.02.2021.
 Fixed icon: redshift.svg
 
 Fixed widget: tasks.svg
+
+Changelog:06.03.2021.
+---------------------
+
+Added icons: compass.svg, pamac.svg, manjaro.svg, kalarm.svg, TeamViewer.svg, video-card.svg
+
+Fixedwidget: update.svg
