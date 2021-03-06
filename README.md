@@ -111,4 +111,4 @@ Changelog:06.03.2021.
 
 Added icons: compass.svg, pamac.svg, manjaro.svg, kalarm.svg, TeamViewer.svg, video-card.svg
 
-Fixedwidget: update.svg
+Fixed icon: update.svg
