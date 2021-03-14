@@ -112,3 +112,8 @@ Changelog:06.03.2021.
 Added icons: compass.svg, pamac.svg, manjaro.svg, kalarm.svg, TeamViewer.svg, video-card.svg
 
 Fixed icon: update.svg
+
+Changelog: 14.03.2021.
+---------------------
+
+Added icons: kmail.svg, konv_message.svg, konversation.svg, mail.svg
