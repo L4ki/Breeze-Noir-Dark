@@ -117,3 +117,10 @@ Changelog: 14.03.2021.
 ---------------------
 
 Added icons: kmail.svg, konv_message.svg, konversation.svg, mail.svg
+
+Changelog: 22.03.2021.
+----------------------
+
+Added icons: wallet.svg, document.svg, activities.svg, akonadi.svg
+
+Fixed icon: akgregator.svg
