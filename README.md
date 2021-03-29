@@ -124,3 +124,10 @@ Changelog: 22.03.2021.
 Added icons: wallet.svg, document.svg, activities.svg, akonadi.svg
 
 Fixed icon: akgregator.svg
+
+Changelog: 29.03.2021.
+----------------------
+
+Added icons: plasmavault_error.svg, plasmavault.svg, choqok.svg, choqok_offline.svg
+
+Added widget: margins-highlight.svg
