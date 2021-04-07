@@ -131,3 +131,8 @@ Changelog: 29.03.2021.
 Added icons: plasmavault_error.svg, plasmavault.svg, choqok.svg, choqok_offline.svg
 
 Added widget: margins-highlight.svg
+
+Changelog: 07.04.2021.
+----------------------
+
+Added icons: software.svg, quassel.svg
