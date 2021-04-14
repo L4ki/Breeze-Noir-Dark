@@ -136,3 +136,10 @@ Changelog: 07.04.2021.
 ----------------------
 
 Added icons: software.svg, quassel.svg
+
+Changelog: 14.04.2021.
+----------------------
+
+Added icons: utilities.svg, touchpad.svg
+
+Fixed icons: input.svg, kate.svg, document.svg
