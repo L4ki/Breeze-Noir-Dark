@@ -150,3 +150,5 @@ Changelog: 22.04.2021.
 Fixed icon: update.svg
 
 Added Icons: vlc.svg, qbittorrent.svg
+
+Fixed widget: lineedit.svg
