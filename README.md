@@ -143,3 +143,10 @@ Changelog: 14.04.2021.
 Added icons: utilities.svg, touchpad.svg
 
 Fixed icons: input.svg, kate.svg, document.svg
+
+Changelog: 22.04.2021.
+----------------------
+
+Fixed icon: update.svg
+
+Added Icons: vlc.svg, qbittorrent.svg
