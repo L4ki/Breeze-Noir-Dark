@@ -152,3 +152,10 @@ Fixed icon: update.svg
 Added Icons: vlc.svg, qbittorrent.svg
 
 Fixed widget: lineedit.svg
+
+Changelog: 29.04.2021.
+----------------------
+
+Fixed icon: choqok.svg
+
+Added icon: ktorrent.svg
