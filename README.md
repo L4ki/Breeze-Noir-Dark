@@ -163,4 +163,4 @@ Added icon: ktorrent.svg
 Changelog: 06.05.2021.
 ----------------------
 
-Added icons: amarok.svg, videoe.svg, user.svg
+Added icons: amarok.svg, video.svg, user.svg
