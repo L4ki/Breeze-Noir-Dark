@@ -164,3 +164,8 @@ Changelog: 06.05.2021.
 ----------------------
 
 Added icons: amarok.svg, video.svg, user.svg
+
+Changelog: 14.05.2021.
+----------------------
+
+Added icons: korgac.svg, kpackagekit.svg
