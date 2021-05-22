@@ -169,3 +169,8 @@ Changelog: 14.05.2021.
 ----------------------
 
 Added icons: korgac.svg, kpackagekit.svg
+
+Changelog: 22.05.2021.
+----------------------
+
+Added icons: kget.svg, kgpg.svg, kopete.svg
