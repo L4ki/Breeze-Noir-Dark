@@ -174,3 +174,8 @@ Changelog: 22.05.2021.
 ----------------------
 
 Added icons: kget.svg, kgpg.svg, kopete.svg
+
+Changelog: 29.05.2021.
+----------------------
+
+Added icons: dropbox.svg, elise.svg, audacious.svg
