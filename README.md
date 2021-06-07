@@ -179,3 +179,8 @@ Changelog: 29.05.2021.
 ----------------------
 
 Added icons: dropbox.svg, elise.svg, audacious.svg
+
+Changelog: 07.06.2021.
+---------------------
+
+Added icons: kruler.svg, kup.svg
