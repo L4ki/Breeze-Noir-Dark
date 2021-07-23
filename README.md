@@ -201,3 +201,8 @@ Changelog: 06.07.2021.
 ---------------------
 
 Fixed icon: kalarm.svg
+
+Changelog: 23.07.2021.
+----------------------
+
+Fixed icons: update.svg, juk.svg
