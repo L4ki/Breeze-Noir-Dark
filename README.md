@@ -205,4 +205,4 @@ Fixed icon: kalarm.svg
 Changelog: 23.07.2021.
 ----------------------
 
-Fixed icons: update.svg, juk.svg
+Fixed icons: activities.svg, update.svg, juk.svg
