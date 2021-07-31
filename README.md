@@ -206,3 +206,8 @@ Changelog: 23.07.2021.
 ----------------------
 
 Fixed icons: activities.svg, update.svg, juk.svg
+
+Changelog: 31.07.2021.
+-----------------------
+
+Fixed icons: software.svg, cantata.svg
