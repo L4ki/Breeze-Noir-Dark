@@ -211,3 +211,8 @@ Changelog: 31.07.2021.
 -----------------------
 
 Fixed icons: software.svg, cantata.svg
+
+Changelog: 07.08.2021.
+----------------------
+
+Fixed widgets: checkmarks.svg, scrollbar.svg, viewitem.svg
