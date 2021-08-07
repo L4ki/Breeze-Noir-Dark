@@ -8,7 +8,7 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15)"
    sodipodi:docname="viewitem.svg"
    id="svg184"
    version="1.0"
@@ -22,7 +22,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -33,12 +33,12 @@
      inkscape:window-maximized="1"
      inkscape:window-y="0"
      inkscape:window-x="0"
-     inkscape:cy="122.0314"
-     inkscape:cx="66.298957"
-     inkscape:zoom="4.9584344"
+     inkscape:cy="82.77832"
+     inkscape:cx="141.33106"
+     inkscape:zoom="2.4792172"
      showgrid="false"
      id="namedview186"
-     inkscape:window-height="1015"
+     inkscape:window-height="1007"
      inkscape:window-width="1920"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0"
@@ -47,7 +47,8 @@
      objecttolerance="10"
      borderopacity="1"
      bordercolor="#000000"
-     pagecolor="#ffffff">
+     pagecolor="#ffffff"
+     inkscape:showpageshadow="false">
     <inkscape:grid
        id="grid1102"
        type="xygrid" />
