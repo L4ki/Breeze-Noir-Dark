@@ -1,5 +1,5 @@
 # Breeze-Noir-Dark
-Dark Plasma Theme
+Dark Plasma Theme and Global Theme
 
 https://store.kde.org/p/1361472/
 
