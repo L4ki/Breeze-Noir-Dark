@@ -216,3 +216,10 @@ Changelog: 07.08.2021.
 ----------------------
 
 Fixed widgets: checkmarks.svg, scrollbar.svg, viewitem.svg
+
+
+Changelog: 14.08.2021.
+----------------------
+
+
+Fixed widgets: tasks.svg, tabbar.svg
