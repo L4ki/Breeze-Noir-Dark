@@ -223,3 +223,8 @@ Changelog: 14.08.2021.
 
 
 Fixed widgets: tasks.svg, tabbar.svg
+
+Changelog: 31.08.2021.
+----------------------
+
+Fixed icons: kaffeine.svg, elisa.svg
