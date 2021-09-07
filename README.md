@@ -228,3 +228,8 @@ Changelog: 31.08.2021.
 ----------------------
 
 Fixed icons: kaffeine.svg, elisa.svg
+
+Changelog: 07.09.2021.
+----------------------
+
+Fixed icons: update.svg, touchpad.svg
