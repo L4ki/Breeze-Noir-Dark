@@ -233,3 +233,8 @@ Changelog: 07.09.2021.
 ----------------------
 
 Fixed icons: update.svg, touchpad.svg
+
+Changelog: 14.09.2021.
+----------------------
+
+Fixed icons: kalarm.svg, kate.svg
