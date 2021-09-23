@@ -238,3 +238,8 @@ Changelog: 14.09.2021.
 ----------------------
 
 Fixed icons: kalarm.svg, kate.svg
+
+Changelog: 23.09.2021.
+---------------------
+
+Fixed widget: scrollbar.svg
