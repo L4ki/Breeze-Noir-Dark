@@ -243,3 +243,11 @@ Changelog: 23.09.2021.
 ---------------------
 
 Fixed widget: scrollbar.svg
+
+Changelog: 01.10.2021.
+----------------------
+
+Plasma Theme
+-------------
+
+Fixed icons: document.svg, drive.svg
