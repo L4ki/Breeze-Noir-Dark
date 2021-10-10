@@ -251,3 +251,8 @@ Plasma Theme
 -------------
 
 Fixed icons: document.svg, drive.svg
+
+Changelog: 10.10.2021.
+----------------------
+
+Fixed widgets: clock.svg, tasks.svg
