@@ -263,4 +263,4 @@ Changelog: 17.10.2021.
 Plasma Theme
 ------------
 
-Fixed widgets: system.svg
+Fixed widget: system.svg
