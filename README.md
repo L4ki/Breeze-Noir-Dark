@@ -256,3 +256,11 @@ Changelog: 10.10.2021.
 ----------------------
 
 Fixed widgets: clock.svg, tasks.svg
+
+Changelog: 17.10.2021.
+----------------------
+
+Plasma Theme
+------------
+
+Fixed widgets: system.svg
