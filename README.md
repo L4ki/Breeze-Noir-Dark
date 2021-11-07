@@ -283,7 +283,7 @@ Plasma Theme
 
 Fixed widget: slider.svg, tasks.svg
 
-Changelog: 31.10.2021.
+Changelog: 07.11.2021.
 ----------------------
 
 Plasma Theme
