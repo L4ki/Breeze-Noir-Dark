@@ -299,5 +299,14 @@ Plasma Theme
 
 Fixed widget: lineedit.svg
 
+Changelog: 21.11.2021.
+----------------------
+
+Plasma Theme
+------------
+
+Fixed icon: disk.svg
+
+
 
 
