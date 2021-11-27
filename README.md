@@ -307,6 +307,14 @@ Plasma Theme
 
 Fixed icon: disk.svg
 
+Changelog: 28.11.2021.
+----------------------
+
+Plasma Theme
+------------
+
+Fixed widget: slider.svg
+
 
 
 
