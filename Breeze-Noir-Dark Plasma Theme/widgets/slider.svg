@@ -559,24 +559,25 @@
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1.0"
+     bordercolor="#000000"
+     borderopacity="1"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="6.8350487"
-     inkscape:cx="40.233803"
-     inkscape:cy="50.621439"
+     inkscape:zoom="4.8331093"
+     inkscape:cx="51.51963"
+     inkscape:cy="33.104983"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
-     showgrid="true"
+     showgrid="false"
      inkscape:window-width="1920"
-     inkscape:window-height="1007"
+     inkscape:window-height="1013"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:lockguides="true"
      inkscape:document-rotation="0"
-     inkscape:pagecheckerboard="0">
+     inkscape:pagecheckerboard="0"
+     inkscape:showpageshadow="false">
     <inkscape:grid
        type="xygrid"
        id="grid2816"
@@ -620,7 +621,7 @@
          sodipodi:nodetypes="csccscc"
          id="rect4721"
          d="m 29,1033.3622 c -1.108,0 -3,0.892 -3,2 0,1.108 1.892,2 3,2 l 53,0 c 1.108,0 3,-0.892 3,-2 0,-1.108 -1.892,-2 -3,-2 l -53,0 z"
-         style="fill:#191919;fill-opacity:1;stroke:none" />
+         style="fill:#191919;fill-opacity:1;stroke:none;opacity:0.01" />
       <rect
          transform="matrix(0,-1,1,0,0,0)"
          ry="1.9999998"
@@ -630,7 +631,7 @@
          height="59"
          width="2"
          id="rect4723"
-         style="fill:#c8e0e7;fill-opacity:1;stroke:none" />
+         style="fill:#c8e0e7;fill-opacity:1;stroke:none;opacity:0.01" />
     </g>
     <g
        id="g4741"
@@ -734,12 +735,12 @@
          x="26"
          y="1032.2997" />
       <path
-         style="fill:#191919;fill-opacity:1;stroke:none"
+         style="fill:#191919;fill-opacity:1;stroke:none;opacity:0.01"
          d="m 29,1033.3622 c -1.108,0 -3,0.892 -3,2 0,1.108 1.892,2 3,2 l 53,0 c 1.108,0 3,-0.892 3,-2 0,-1.108 -1.892,-2 -3,-2 l -53,0 z"
          id="path4171"
          sodipodi:nodetypes="csccscc" />
       <rect
-         style="fill:#c8e0e7;fill-opacity:1;stroke:none"
+         style="fill:#c8e0e7;fill-opacity:1;stroke:none;opacity:0.01"
          id="rect4173"
          width="2"
          height="59"
