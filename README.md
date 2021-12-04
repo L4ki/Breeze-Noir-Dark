@@ -315,6 +315,17 @@ Plasma Theme
 
 Fixed widget: slider.svg
 
+Changelog: 05.12.2021.
+----------------------
+
+Plasma Theme
+------------
+
+Fixed widget: tooltip.svg, tabbar.svg
+
+Fixed background.svg (dialogs)
+
+
 
 
 
