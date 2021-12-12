@@ -326,6 +326,14 @@ Fixed widget: tooltip.svg, tabbar.svg
 Fixed background.svg (dialogs)
 
 
+Changelog: 12.12.2021.
+----------------------
+
+Fixed widget: tasks.svg
+
+
+
+
 
 
 
