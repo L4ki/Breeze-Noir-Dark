@@ -331,6 +331,10 @@ Changelog: 12.12.2021.
 
 Fixed widget: tasks.svg
 
+Changelog: 19.12.2021.
+----------------------
+
+Fixed widget: panel-background.svg
 
 
 
