@@ -342,6 +342,10 @@ Changelog: 26.12.2021.
 
 Fixed widget: listitem.svg
 
+Changelog: 02.01.2022.
+----------------------
+
+Fixed widget: action-overlays.svg
 
 
 
