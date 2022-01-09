@@ -347,6 +347,11 @@ Changelog: 02.01.2022.
 
 Fixed widget: action-overlays.svg
 
+Changelog: 09.01.2022.
+----------------------
+
+Update icon: video-card.svg
+
 
 
 
