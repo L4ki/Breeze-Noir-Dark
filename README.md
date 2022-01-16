@@ -353,6 +353,11 @@ Changelog: 09.01.2022.
 Update icon: video-card.svg
 
 
+Changelog: 16.01.2022.
+----------------------
+
+Fixed widget: line.svg
+
 
 
 
