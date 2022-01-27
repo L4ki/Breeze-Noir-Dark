@@ -363,6 +363,12 @@ Changelog: 23.01.2022.
 
 Update widget: clock.svg
 
+Changelog: 30.01.2022.
+----------------------
+
+Update icons: start.svg
+
+
 
 
 
