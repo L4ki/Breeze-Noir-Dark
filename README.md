@@ -369,6 +369,12 @@ Changelog: 30.01.2022.
 Update icons: start.svg
 
 
+Changelog: 06.02.2022.
+----------------------
+
+Update widget: slider.svg
+
+
 
 
 
