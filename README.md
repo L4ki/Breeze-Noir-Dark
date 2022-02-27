@@ -384,6 +384,11 @@ Changelog: 20.02.2022.
 
 Update icon: phone.svg
 
+Changelog: 27.02.2022.
+----------------------
+
+Update widget: plasmoidheading.svg
+
 
 
 
