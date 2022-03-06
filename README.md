@@ -389,6 +389,11 @@ Changelog: 27.02.2022.
 
 Update widget: plasmoidheading.svg
 
+Changelog: 06.03.2022.
+----------------------
+
+Update icon: window.svg
+
 
 
 
