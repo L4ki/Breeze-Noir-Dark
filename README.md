@@ -394,6 +394,11 @@ Changelog: 06.03.2022.
 
 Update icon: window.svg
 
+Changelog: 13.03.2022.
+----------------------
+
+Update icon: redshift.svg
+
 
 
 
