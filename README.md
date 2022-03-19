@@ -399,6 +399,11 @@ Changelog: 13.03.2022.
 
 Update icon: redshift.svg
 
+Changelog: 20.03.2022.
+----------------------
+
+Update icon: update.svg
+
 
 
 
