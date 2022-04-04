@@ -409,6 +409,11 @@ Changelog: 27.03.2022.
 
 Update icon: software.svg
 
+Changelog: 04.04.2022.
+----------------------
+
+Update icon: input.svg
+
 
 
 
