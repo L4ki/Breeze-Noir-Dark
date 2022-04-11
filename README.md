@@ -414,6 +414,11 @@ Changelog: 04.04.2022.
 
 Update icon: input.svg
 
+Changelog: 11.04.2022.
+----------------------
+
+Update icon: plasmavault.svg, plasmavault_error.svg
+
 
 
 
