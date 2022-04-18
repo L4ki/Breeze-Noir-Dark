@@ -420,6 +420,11 @@ Changelog: 11.04.2022.
 Update icon: plasmavault.svg, plasmavault_error.svg
 
 
+Changelog: 18.04.2022.
+----------------------
+
+Update icon: configure.svg
+
 
 
 
