@@ -425,6 +425,11 @@ Changelog: 18.04.2022.
 
 Update icon: configure.svg
 
+Changelog: 25.04.2022.
+----------------------
+
+Update icons: activities.svg, klipper.svg
+
 
 
 
