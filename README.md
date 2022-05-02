@@ -430,6 +430,10 @@ Changelog: 25.04.2022.
 
 Update icons: activities.svg, klipper.svg
 
+Changelog: 02.05.2022.
+----------------------
+
+Update widget:tasks.svg
 
 
 
