@@ -445,6 +445,11 @@ Changelog: 16.05.2022.
 
 Update icon: klipper.svg
 
+Changelog: 23.05.2022.
+----------------------
+
+Update icons: documant.svg, klipper.svg
+
 
 
 
