@@ -450,6 +450,11 @@ Changelog: 23.05.2022.
 
 Update icons: documant.svg, klipper.svg
 
+Changelog: 31.05.2022.
+----------------------
+
+Update widget: viewitem.svg
+
 
 
 
