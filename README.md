@@ -455,6 +455,11 @@ Changelog: 31.05.2022.
 
 Update widget: viewitem.svg
 
+Changelog: 07.06.2022.
+----------------------
+
+Update icons: choqok, choqok_offline, kdeconnect, kmail, mail, manjaro, preferences, video, TeamViewer, utilities,
+
 
 
 
