@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="32"
    height="32"
    version="1.1"
    id="svg12"
    sodipodi:docname="TeamViewer.svg"
-   inkscape:version="1.0.2 (e86c870879, 2021-01-15)">
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <g
      id="22-22-TeamViewer"
      transform="translate(32,10.000001)">
@@ -31,8 +31,8 @@
        sodipodi:nodetypes="cccccccccccccccccccc"
        inkscape:connector-curvature="0"
        class="ColorScheme-Text"
-       d="m 6.355897,18.058808 h 9.411784 V 19 H 6.355897 Z m 2.82353,-1.882351 h 3.764712 v 1.882345 H 9.179427 Z M 1.65,3 V 16.176445 H 20.473536 V 3 Z M 2.591186,3.941177 H 19.532362 V 13.35292 H 2.591186 Z"
-       style="fill:#c8e0e7;fill-opacity:1;stroke:none;stroke-width:0.941189"
+       d="M 6,17.999999 H 16 L 16.000029,19 H 6.0000142 Z m 3,-2 h 4 v 2 H 9 Z M 1,3 V 15.999999 H 21 V 3 Z m 1,0.999999 h 18 v 10 H 2 Z"
+       style="fill:#c8e0e7;fill-opacity:1;stroke:none;stroke-width:0.970155"
        id="rect7235-6" />
   </g>
   <metadata
@@ -58,22 +58,23 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1007"
+     inkscape:window-height="1003"
      id="namedview14"
      showgrid="false"
-     inkscape:zoom="9.8125"
-     inkscape:cx="31.724187"
-     inkscape:cy="15.910226"
+     inkscape:zoom="6.9384853"
+     inkscape:cx="34.229373"
+     inkscape:cy="14.700615"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg12"
-     inkscape:document-rotation="0">
+     inkscape:document-rotation="0"
+     inkscape:pagecheckerboard="0">
     <inkscape:grid
        type="xygrid"
        id="grid864"
        originx="0"
-       originy="-4.6325683e-08" />
+       originy="0" />
   </sodipodi:namedview>
   <g
      id="TeamViewer">
@@ -92,8 +93,8 @@
        sodipodi:nodetypes="cccccccccccccccccccc"
        inkscape:connector-curvature="0"
        class="ColorScheme-Text"
-       d="M 9.035681,26.597129 H 23.15334 v 1.411784 H 9.035681 Z m 4.235296,-2.823528 h 5.647051 v 2.823507 H 13.270977 Z M 1.97683,4.0089134 V 23.77358 H 30.212126 V 4.0089134 Z m 1.411765,1.411764 H 28.800373 V 19.53829 H 3.388595 Z"
-       style="fill:#c8e0e7;fill-opacity:1;stroke:none;stroke-width:1.41173"
+       d="m 9,27 h 14 v 1 H 9.0530146 Z m 4.014056,-3.007425 h 5.995039 L 19,27 H 13 Z M 2,4.0089101 2.0231508,23.992575 H 30 V 4 Z M 3.022324,4.9996288 H 29.000827 V 19.99406 H 3.022324 Z"
+       style="fill:#c8e0e7;fill-opacity:1;stroke:none;stroke-width:1.41089"
        id="rect7235" />
   </g>
 </svg>
