@@ -36,11 +36,11 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1003"
+     inkscape:window-height="1007"
      id="namedview14"
      showgrid="false"
      inkscape:zoom="9.8125003"
-     inkscape:cx="25.32484"
+     inkscape:cx="22.675159"
      inkscape:cy="23.949044"
      inkscape:window-x="0"
      inkscape:window-y="0"
@@ -56,9 +56,10 @@
        originy="10.000001" />
   </sodipodi:namedview>
   <g
-     id="utilities-terminal">
+     id="utilities-terminal"
+     style="fill:#c8e0e7;fill-opacity:1">
     <rect
-       style="opacity:0.00100002"
+       style="opacity:0.00100002;fill:#c8e0e7;fill-opacity:1"
        width="32"
        height="32"
        x="0"
@@ -72,9 +73,10 @@
   </g>
   <g
      id="22-22-utilities-terminal"
-     transform="translate(32,10.000001)">
+     transform="translate(32,10.000001)"
+     style="fill:#c8e0e7;fill-opacity:1">
     <rect
-       style="opacity:0.00100002"
+       style="opacity:0.00100002;fill:#c8e0e7;fill-opacity:1"
        width="22"
        height="22"
        x="0"
