@@ -460,6 +460,10 @@ Changelog: 07.06.2022.
 
 Update icons: choqok, choqok_offline, kdeconnect, kmail, mail, manjaro, preferences, video, TeamViewer, utilities,
 
+Changelog: 14.06.2022.
+----------------------
+
+Update icons: konv_message, konversation, wallet
 
 
 
