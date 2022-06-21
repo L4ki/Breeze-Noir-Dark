@@ -465,5 +465,10 @@ Changelog: 14.06.2022.
 
 Update icons: konv_message, konversation, wallet
 
+Changelog: 21.06.2022.
+----------------------
+
+Update icons: kruler, ktorrent, phone
+
 
 
