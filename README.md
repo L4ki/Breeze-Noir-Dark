@@ -470,5 +470,9 @@ Changelog: 21.06.2022.
 
 Update icons: kruler, ktorrent, phone
 
+Changelog: 28.06.2022.
+----------------------
+
+Update icon: touchpad.svg
 
 
