@@ -485,3 +485,8 @@ Changelog: 23.07.2022.
 
 Update widget: clock.svg
 
+
+Changelog: 30.07.2022.
+----------------------
+
+Update widget: line.svg
