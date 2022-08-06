@@ -490,3 +490,11 @@ Changelog: 30.07.2022.
 ----------------------
 
 Update widget: line.svg
+
+
+Changelog: 06.08.2022.
+----------------------
+
+Update widget: scrollbar.svg
+
+Added: opaque, solid, translucent
