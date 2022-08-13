@@ -498,3 +498,8 @@ Changelog: 06.08.2022.
 Update widget: scrollbar.svg
 
 Added: opaque, solid, translucent
+
+hangelog: 13.08.2022.
+----------------------
+
+Update widget: listitem.svg
