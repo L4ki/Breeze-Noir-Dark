@@ -3,7 +3,7 @@
    id="svg2"
    width="22"
    height="22"
-   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
    sodipodi:docname="drive.svg"
    version="1.1"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -31,11 +31,11 @@
      gridtolerance="10"
      guidetolerance="10"
      inkscape:current-layer="svg2"
-     inkscape:cx="-14.845062"
-     inkscape:cy="7.8364265"
+     inkscape:cx="-18.156228"
+     inkscape:cy="7.8916126"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-height="1007"
+     inkscape:window-height="1002"
      inkscape:window-maximized="1"
      inkscape:window-width="1920"
      inkscape:window-x="0"
@@ -46,8 +46,13 @@
      showgrid="false"
      inkscape:document-rotation="0"
      inkscape:pagecheckerboard="0"
-     inkscape:showpageshadow="false"
-     inkscape:lockguides="true" />
+     inkscape:showpageshadow="true"
+     inkscape:lockguides="true"
+     inkscape:deskcolor="#d1d1d1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid1455" />
+  </sodipodi:namedview>
   <defs
      id="defs4">
     <style
@@ -98,7 +103,7 @@
          cx="11"
          cy="12"
          r="2"
-         style="fill:#0071a1;fill-opacity:1" />
+         style="fill:#00a7e5;fill-opacity:1" />
     </g>
   </g>
 </svg>
