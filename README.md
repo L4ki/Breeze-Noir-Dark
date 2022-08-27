@@ -508,3 +508,8 @@ Changelog: 20.08.2022.
 ----------------------
 
 Update icons: choqok_offline, choqok
+
+Changelog: 20.08.2022.
+----------------------
+
+Update icon: drive.svg
