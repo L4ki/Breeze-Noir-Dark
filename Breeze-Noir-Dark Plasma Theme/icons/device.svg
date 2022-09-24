@@ -1,32 +1,32 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
    sodipodi:docname="device.svg"
-   height="100%"
-   width="100%"
+   height="32"
+   width="32"
    version="1.1"
    id="svg"
-   viewBox="0 0 22 22">
+   viewBox="0 0 32 32"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <sodipodi:namedview
      inkscape:document-rotation="0"
-     inkscape:lockguides="true"
+     inkscape:lockguides="false"
      inkscape:current-layer="svg"
      inkscape:window-maximized="1"
      inkscape:window-y="0"
      inkscape:window-x="0"
-     inkscape:cy="29.533217"
-     inkscape:cx="25.564501"
-     inkscape:zoom="5.3636364"
+     inkscape:cy="37.968038"
+     inkscape:cx="46.734964"
+     inkscape:zoom="7.5853273"
      showgrid="false"
      id="namedview19"
-     inkscape:window-height="1018"
+     inkscape:window-height="1002"
      inkscape:window-width="1920"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0"
@@ -35,7 +35,16 @@
      objecttolerance="10"
      borderopacity="1"
      bordercolor="#666666"
-     pagecolor="#ffffff" />
+     pagecolor="#ffffff"
+     inkscape:showpageshadow="2"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid430"
+       originx="0"
+       originy="34" />
+  </sodipodi:namedview>
   <defs
      id="defs81">
     <style
@@ -50,12 +59,11 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <g
-     transform="translate(-1,-1)"
+     transform="translate(-1,33)"
      id="22-22-device-notifier">
     <rect
        style="fill:#ffffff;fill-opacity:0;stroke:none"
@@ -68,11 +76,12 @@
        inkscape:connector-curvature="0"
        class="ColorScheme-Text"
        id="path3783"
-       d="m 7.2921698,4.1552203 0.027505,4.9376549 H 5.559322 V 20.09322 H 17.881795 V 9.0928752 h -1.760354 l 0.02751,-4.9376549 z m 0.9076821,0.9375294 7.0414131,0.031251 V 9.0928752 L 8.1998519,9.0616242 Z m 0.852671,1.0000314 0.02751,2.0000627 H 10.840386 V 6.1240321 Z m 5.3360711,0 -1.84287,0.031251 v 1.9688117 h 1.815365 z m -2.723046,5.0001569 3.575717,4.000125 H 8.1998519 Z m -3.4656961,5.000157 h 7.0414131 v 1.000031 H 8.1998519 Z"
-       style="color:#7b7c7e;fill:#c8e0e7;fill-opacity:1;stroke:none;stroke-width:0.938192" />
+       d="M 8,4 V 9 L 6,8.956863 V 20 H 18 V 8.956863 L 16,9 V 4 Z m 1,1 h 6 V 9 H 9 Z m 1,1 v 2 h 1 V 6 Z m 4,0 h -1 v 2 h 1 z m -2.053572,4.964707 3.482144,4.015686 H 8.5714285 Z m -3.3749995,5.019607 h 6.8571435 v 1.003922 H 8.5714285 Z"
+       style="color:#7b7c7e;fill:#c8e0e7;fill-opacity:1;stroke:none;stroke-width:0.927633"
+       sodipodi:nodetypes="ccccccccccccccccccccccccccccccccc" />
   </g>
   <g
-     transform="translate(25,-2)"
+     transform="translate(25,32)"
      id="g2991">
     <rect
        y="0"
@@ -94,7 +103,7 @@
   </g>
   <g
      id="device-notifier"
-     transform="matrix(1.4545455,0,0,1.4545455,-1.4545455,-35.454545)">
+     transform="matrix(1.4545455,0,0,1.4545455,-1.4545455,-1.4545455)">
     <rect
        y="1"
        x="1"
@@ -110,7 +119,7 @@
   </g>
   <g
      id="16-16-device-notifier"
-     transform="translate(-4,22)">
+     transform="translate(-4,56)">
     <rect
        y="4"
        x="4"
@@ -120,8 +129,9 @@
        style="fill:#ffffff;fill-opacity:0;stroke:none" />
     <path
        class="ColorScheme-Text"
-       style="fill:#c8e0e7;fill-opacity:1;stroke:none"
-       d="M 6.96875,6.0625 7,11 H 6 v 7 h 11 v -7 l -0.9375,-0.03125 0.03125,-4.9375 z M 8,7 h 7.0625 v 3.96875 H 8 Z M 8.96875,8 9,10 h 2 V 8.03125 Z M 14.09375,7.96875 12,8 v 1.96875 h 2.0625 z"
-       id="path3825" />
+       style="fill:#c8e0e7;fill-opacity:1;stroke:none;stroke-width:0.954711"
+       d="m 8,6 v 5 L 7,10.981723 V 18 H 17 V 10.981723 L 16,11 V 6 Z m 1,1 h 6 v 4 H 9 Z m 1,1 v 2 h 1 V 8 Z m 4,0 h -1 v 2 h 1 z"
+       id="path3825"
+       sodipodi:nodetypes="cccccccccccccccccccccccc" />
   </g>
 </svg>
