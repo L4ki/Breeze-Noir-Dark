@@ -529,3 +529,9 @@ Changelog: 17.09.2022.
 ----------------------
 
 Update widget: background.svg
+
+
+Changelog: 24.09.2022.
+----------------------
+
+Update icon: device.svg
