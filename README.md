@@ -535,3 +535,8 @@ Changelog: 24.09.2022.
 ----------------------
 
 Update icon: device.svg
+
+Changelog: 01.10.2022.
+----------------------
+
+Added widgets: glowbar.svg, notes.svg
