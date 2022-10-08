@@ -540,3 +540,8 @@ Changelog: 01.10.2022.
 ----------------------
 
 Added widgets: glowbar.svg, notes.svg
+
+Changelog: 08.10.2022.
+----------------------
+
+Added icons: list.svg, thunderbird.svg
