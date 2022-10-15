@@ -545,3 +545,8 @@ Changelog: 08.10.2022.
 ----------------------
 
 Added icons: list.svg, thunderbird.svg
+
+Changelog: 08.10.2022.
+----------------------
+
+Added icons: go.svg, zoom.svg
