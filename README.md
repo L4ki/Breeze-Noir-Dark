@@ -550,3 +550,8 @@ Changelog: 15.10.2022.
 ----------------------
 
 Added icons: go.svg, zoom.svg
+
+Changelog: 22.10.2022.
+----------------------
+
+Update widget: scrollbar.svg
