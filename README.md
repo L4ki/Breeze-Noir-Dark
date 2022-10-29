@@ -556,7 +556,7 @@ Changelog: 22.10.2022.
 
 Update widget: scrollbar.svg
 
-Changelog: 22.10.2022.
+Changelog: 29.10.2022.
 ----------------------
 
 Update icon: apport.svg
