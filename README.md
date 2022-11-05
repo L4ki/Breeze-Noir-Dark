@@ -560,3 +560,8 @@ Changelog: 29.10.2022.
 ----------------------
 
 Update icon: apport.svg
+
+Changelog: 05.11.2022.
+----------------------
+
+Added icons: tools.svg, face.svg
