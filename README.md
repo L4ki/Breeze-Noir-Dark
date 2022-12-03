@@ -582,3 +582,8 @@ Changelog: 26.11.2022.
 ----------------------
 
 Added icons: krusader_user, krusader_root
+
+Changelog: 03.12.2022.
+----------------------
+
+Added icon: mellowplayer.svg
