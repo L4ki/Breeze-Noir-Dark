@@ -610,7 +610,7 @@ Changelog: 31.12.2022.
 
 Added icon: audio.svg
 
-Changelog: 31.12.2022.
+Changelog: 01.07.2023.
 ----------------------
 
 Added icon: krfb.svg
