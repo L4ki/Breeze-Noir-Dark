@@ -614,3 +614,8 @@ Changelog: 07.01.2023.
 ----------------------
 
 Added icon: krfb.svg
+
+Changelog: 15.01.2023.
+----------------------
+
+Added icon: cadence.svg
