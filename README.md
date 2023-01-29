@@ -625,3 +625,9 @@ Changelog: 22.01.2023.
 ----------------------
 
 Added icons: distribute.svg, onboard.svg
+
+
+Changelog: 29.01.2023.
+----------------------
+
+Added icons: offline.svg, lutris.svg
