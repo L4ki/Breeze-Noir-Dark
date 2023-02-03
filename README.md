@@ -631,3 +631,8 @@ Changelog: 29.01.2023.
 ----------------------
 
 Added icons: offline.svg, lutris.svg
+
+Changelog: 05.02.2023.
+----------------------
+
+Added icons: desktop.svg, process.svg
