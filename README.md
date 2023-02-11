@@ -636,3 +636,8 @@ Changelog: 05.02.2023.
 ----------------------
 
 Added icons: desktop.svg, process.svg
+
+Changelog: 12.02.2023.
+----------------------
+
+Added icon: ring.svg
