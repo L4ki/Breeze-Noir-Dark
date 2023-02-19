@@ -641,3 +641,9 @@ Changelog: 12.02.2023.
 ----------------------
 
 Added icon: ring.svg
+
+
+Changelog: 12.02.2023.
+----------------------
+
+Added icon: corectrl.svg
