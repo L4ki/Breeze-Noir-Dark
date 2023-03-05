@@ -647,3 +647,8 @@ Changelog: 12.02.2023.
 ----------------------
 
 Added icon: corectrl.svg
+
+Changelog: 05.03.2023.
+----------------------
+
+Added icon:  org.rnd2.cpupower_gui.svg
