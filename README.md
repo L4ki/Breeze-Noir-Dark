@@ -667,3 +667,8 @@ Changelog: 26.03.2023.
 ----------------------
 
 Added icon: quota.svg
+
+Changelog: 02.04.2023.
+----------------------
+
+Added icon: strawberry.svg
