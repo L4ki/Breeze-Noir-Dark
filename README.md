@@ -672,3 +672,8 @@ Changelog: 02.04.2023.
 ----------------------
 
 Added icon: strawberry.svg
+
+Changelog: 09.04.2023.
+----------------------
+
+Update widgets: background.svg, panel-background.svg, tooltip.svg
