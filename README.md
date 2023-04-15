@@ -678,7 +678,7 @@ Changelog: 09.04.2023.
 
 Update widgets: background.svg, panel-background.svg, tooltip.svg
 
-Changelog: 09.04.2023.
+Changelog: 16.04.2023.
 ----------------------
 
 Update widget: viewitem.svg
