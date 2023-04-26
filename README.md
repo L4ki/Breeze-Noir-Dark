@@ -6,7 +6,16 @@ https://store.kde.org/p/1361472/
 Screenshot:
 ------------
 
-[![Screenshot-20200217-141538.png](https://i.postimg.cc/KvNz5jf3/Screenshot-20200217-141538.png)](https://postimg.cc/D8Snv2t7)
+![1](https://user-images.githubusercontent.com/45247573/234533257-4b6e49a3-3958-434e-a92e-82a3a0b30c0e.png)
+
+![2](https://user-images.githubusercontent.com/45247573/234533285-0a20723a-c305-4eb4-aaeb-c8651b253e28.png)
+
+![logo-3](https://user-images.githubusercontent.com/45247573/234533367-a6d06be8-c68c-4162-b06d-20dca5b9da5d.jpg)
+
+![4](https://user-images.githubusercontent.com/45247573/234533400-aebf2255-7210-402e-a03e-46d175f35f1a.jpg)
+
+![5](https://user-images.githubusercontent.com/45247573/234533450-1da4d1ba-01b5-4ae4-ad23-006667d1dd11.png)
+
 
 
 Changelog: 11.05.2020.
