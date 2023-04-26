@@ -20,7 +20,7 @@ Download: https://www.pling.com/p/1361472
 
 
 
-Screenshot:
+Screenshots:
 ------------
 
 ![1](https://user-images.githubusercontent.com/45247573/234533257-4b6e49a3-3958-434e-a92e-82a3a0b30c0e.png)
