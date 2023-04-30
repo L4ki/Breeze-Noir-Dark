@@ -714,3 +714,9 @@ Changelog: 24.04.2023.
 ----------------------
 
 Update widgets: plasmoidheading.svg, line.svg
+
+
+Changelog: 01.05.2023.
+----------------------
+
+Update widget: listitem.svg
