@@ -725,3 +725,8 @@ Changelog: 08.05.2023.
 ----------------------
 
 Added widget: branding.svg
+
+Changelog: 15.05.2023.
+----------------------
+
+Added icons: ime.svg, fcitx.svg
