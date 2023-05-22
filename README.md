@@ -730,3 +730,8 @@ Changelog: 15.05.2023.
 ----------------------
 
 Added icons: ime.svg, fcitx.svg
+
+Changelog: 22.05.2023.
+----------------------
+
+Update widgets: tabbar.svg, viewitem.svg
