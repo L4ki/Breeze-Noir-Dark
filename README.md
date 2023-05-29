@@ -735,3 +735,8 @@ Changelog: 22.05.2023.
 ----------------------
 
 Update widgets: tabbar.svg, viewitem.svg
+
+Changelog: 29.05.2023.
+----------------------
+
+Update widget: scrollbar.svg
