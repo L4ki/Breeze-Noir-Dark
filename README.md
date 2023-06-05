@@ -741,7 +741,7 @@ Changelog: 29.05.2023.
 
 Update widget: scrollbar.svg
 
-Changelog: 29.05.2023.
+Changelog: 05.06.2023.
 ----------------------
 
 Added icon: slc.svg
