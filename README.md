@@ -745,3 +745,8 @@ Changelog: 05.06.2023.
 ----------------------
 
 Added icon: slc.svg
+
+Changelog: 12.06.2023.
+----------------------
+
+Added icon: keyboard.svg
