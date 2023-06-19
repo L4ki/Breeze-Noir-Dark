@@ -750,3 +750,12 @@ Changelog: 12.06.2023.
 ----------------------
 
 Added icon: keyboard.svg
+
+Changelog: 12.06.2023.
+----------------------
+
+Plasma Theme
+-------------
+
+Update: metadata.desktop
+
