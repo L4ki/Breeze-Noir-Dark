@@ -751,7 +751,7 @@ Changelog: 12.06.2023.
 
 Added icon: keyboard.svg
 
-Changelog: 12.06.2023.
+Changelog: 19.06.2023.
 ----------------------
 
 Plasma Theme
@@ -759,3 +759,10 @@ Plasma Theme
 
 Update: metadata.desktop
 
+Changelog: 26.06.2023.
+----------------------
+
+Plasma Theme
+-------------
+
+Added icon: accessories.svg
