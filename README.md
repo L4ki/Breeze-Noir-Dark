@@ -766,3 +766,11 @@ Plasma Theme
 -------------
 
 Added icon: accessories.svg
+
+Changelog: 03.07.2023.
+----------------------
+
+Plasma Theme
+-------------
+
+Update widget: action-overlays.svg
