@@ -774,3 +774,12 @@ Plasma Theme
 -------------
 
 Update widget: action-overlays.svg
+
+
+Changelog: 10.07.2023.
+----------------------
+
+Plasma Theme
+-------------
+
+Added icon: skype.svg
