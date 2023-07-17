@@ -783,3 +783,12 @@ Plasma Theme
 -------------
 
 Added icon: skype.svg
+
+
+Changelog: 17.07.2023.
+----------------------
+
+Plasma Theme
+-------------
+
+Added icon: veracrypt.svg
