@@ -792,3 +792,12 @@ Plasma Theme
 -------------
 
 Added icon: veracrypt.svg
+
+
+Changelog: 24.07.2023.
+----------------------
+
+Plasma Theme
+-------------
+
+Added widget: translucentbackground.svg
