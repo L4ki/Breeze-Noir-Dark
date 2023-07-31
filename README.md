@@ -801,3 +801,11 @@ Plasma Theme
 -------------
 
 Added widget: translucentbackground.svg
+
+Changelog: 31.07.2023.
+----------------------
+
+Plasma Theme
+-------------
+
+Added widget: radiobutton.svg
