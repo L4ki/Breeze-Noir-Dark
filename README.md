@@ -809,3 +809,11 @@ Plasma Theme
 -------------
 
 Added widget: radiobutton.svg
+
+Changelog: 07.08.2023.
+----------------------
+
+Plasma Theme
+-------------
+
+Added widget: monitor.svg
