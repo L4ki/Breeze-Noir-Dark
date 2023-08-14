@@ -817,3 +817,11 @@ Plasma Theme
 -------------
 
 Added widget: monitor.svg
+
+Changelog: 14.08.2023.
+----------------------
+
+Plasma Theme
+-------------
+
+Added widget: analog_meter.svg
