@@ -833,3 +833,12 @@ Plasma Theme
 -------------
 
 Added widget: dragger.svg
+
+
+Changelog: 28.08.2023.
+----------------------
+
+Plasma Theme
+-------------
+
+Added widget: busywidget.svg
