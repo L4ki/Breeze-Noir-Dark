@@ -842,3 +842,12 @@ Plasma Theme
 -------------
 
 Added widget: busywidget.svg
+
+
+Changelog: 04.09.2023.
+----------------------
+
+Plasma Theme
+-------------
+
+Added widget: arrows.svg
