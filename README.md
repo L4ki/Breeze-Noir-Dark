@@ -851,3 +851,11 @@ Plasma Theme
 -------------
 
 Added widget: arrows.svg
+
+Changelog: 11.09.2023.
+----------------------
+
+Plasma Theme
+-------------
+
+Added: wind-arrows.svg
