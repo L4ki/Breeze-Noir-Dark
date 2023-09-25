@@ -867,3 +867,11 @@ Plasma Theme
 -------------
 
 Added widget: frame.svg
+
+Changelog: 25.09.2023.
+----------------------
+
+Plasma Theme
+-------------
+
+Added widget: picker.svg
