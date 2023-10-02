@@ -875,3 +875,11 @@ Plasma Theme
 -------------
 
 Added widget: picker.svg
+
+Changelog: 02.10.2023.
+----------------------
+
+Plasma Theme
+-------------
+
+Added widget: configuration-icons.svg
