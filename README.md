@@ -883,3 +883,11 @@ Plasma Theme
 -------------
 
 Added widget: configuration-icons.svg
+
+Changelog: 09.10.2023.
+----------------------
+
+Plasma Theme
+-------------
+
+Added widget: switch.svg
