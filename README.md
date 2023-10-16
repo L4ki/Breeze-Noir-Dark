@@ -891,3 +891,11 @@ Plasma Theme
 -------------
 
 Added widget: switch.svg
+
+Changelog: 16.10.2023.
+----------------------
+
+Plasma Theme
+-------------
+
+Update widget: line.svg
