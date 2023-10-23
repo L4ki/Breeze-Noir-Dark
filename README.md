@@ -899,3 +899,11 @@ Plasma Theme
 -------------
 
 Update widget: line.svg
+
+Changelog: 23.10.2023.
+----------------------
+
+Plasma Theme
+-------------
+
+Added icon: image.svg
