@@ -907,3 +907,11 @@ Plasma Theme
 -------------
 
 Added icon: image.svg
+
+Changelog: 30.10.2023.
+----------------------
+
+Plasma Theme
+-------------
+
+Added widget: containment-controls.svg
