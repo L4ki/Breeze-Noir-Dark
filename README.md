@@ -915,3 +915,11 @@ Plasma Theme
 -------------
 
 Added widget: containment-controls.svg
+
+Changelog: 06.11.2023.
+----------------------
+
+Plasma Theme
+-------------
+
+Added widget: containment-controls.svg
