@@ -923,3 +923,12 @@ Plasma Theme
 -------------
 
 Added widget: menubaritem.svg
+
+Changelog: 13.11.2023.
+----------------------
+
+Plasma Theme
+-------------
+
+Added icon: search.svg
+
