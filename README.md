@@ -932,3 +932,12 @@ Plasma Theme
 
 Added icon: search.svg
 
+Changelog: 20.11.2023.
+----------------------
+
+Plasma Theme
+-------------
+
+Added icon: widget.svg
+
+
