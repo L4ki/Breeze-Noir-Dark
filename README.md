@@ -940,4 +940,12 @@ Plasma Theme
 
 Added icon: widget.svg
 
+Changelog: 27.11.2023.
+----------------------
+
+Plasma Theme
+-------------
+
+Added icon: transform.svg
+
 
