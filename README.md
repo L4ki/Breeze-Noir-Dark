@@ -948,4 +948,13 @@ Plasma Theme
 
 Added icon: transform.svg
 
+Changelog: 04.12.2023.
+----------------------
+
+Plasma Theme
+-------------
+
+Update widget: bar_meter_horizontal.svg
+
+
 
