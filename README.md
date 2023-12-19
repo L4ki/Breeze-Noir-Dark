@@ -956,5 +956,13 @@ Plasma Theme
 
 Added icon: telegram.svg
 
+Changelog: 19.12.2023.
+----------------------
+
+Plasma Theme
+-------------
+
+Added widget: plot-background.svg
+
 
 
