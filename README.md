@@ -965,4 +965,13 @@ Plasma Theme
 Added widget: plot-background.svg
 
 
+Changelog: 26.12.2023.
+----------------------
+
+Plasma Theme
+-------------
+
+Added widget: scrollwidget.svg
+
+
 
