@@ -973,5 +973,14 @@ Plasma Theme
 
 Added widget: scrollwidget.svg
 
+Changelog: 02.01.2024.
+----------------------
+
+Plasma Theme
+-------------
+
+Update widget: switch.svg
+
+
 
 
