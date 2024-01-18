@@ -987,7 +987,7 @@ Changelog: 10.01.2024.
 Plasma Theme
 -------------
 
-Update widget: radiobutton.svg.svg
+Update widget: radiobutton.svg
 
 
 Changelog: 18.01.2024.
