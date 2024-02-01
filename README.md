@@ -34,13 +34,13 @@ Screenshots:
 ![5](https://user-images.githubusercontent.com/45247573/234533450-1da4d1ba-01b5-4ae4-ad23-006667d1dd11.png)
 
 
-Changelog: 25.01.2024.
+Changelog: 01.02.2024.
 ----------------------
 
 Plasma Theme
 -------------
 
-Added widget: actionbutton.svg
+Added widget: media-delegate.svg
 
 
 
