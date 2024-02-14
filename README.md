@@ -36,13 +36,13 @@ Screenshots:
 _______________________________________________________________________________________________________________
 
 
-Changelog: 01.02.2024.
+Changelog: 14.02.2024.
 ----------------------
 
 Plasma Theme
 -------------
 
-Added widget: media-delegate.svg
+Added icon: sogoupinyin.svg
 
 
 
