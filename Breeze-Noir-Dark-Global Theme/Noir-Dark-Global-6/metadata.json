@@ -17,16 +17,16 @@
         "Id": "Noir-Dark-Global-6",
         "Version": "1.0",
         "License": "GPLv3",
-        "Website": "https://github.com/L4ki/Noir-Plasma-Themes"
+        "Website": "https://github.com/L4ki/Breeze-Noir-Dark"
     },
     "X-KPackage-Dependencies": [
-        "kns://window-decorations.knsrc/api.kde-look.org/2133854",
+        "kns://window-decorations.knsrc/api.kde-look.org/2142850",
         "kns://colorschemes.knsrc/api.kde-look.org/1361466",
         "kns://colorschemes.knsrc/api.kde-look.org/1411469",
         "kns://icons.knsrc/api.kde-look.org/1361468",
         "kns://icons.knsrc/api.kde-look.org/1361471",
         "kns://plasma-themes.knsrc/api.kde-look.org/1361472",
-        "kns://sddmtheme.knsrc/api.kde-look.org/2139968",
+        "kns://sddmtheme.knsrc/api.kde-look.org/2142845",
         "kns://wallpaper.knsrc/api.kde-look.org/1355286",
         "kns://wallpaper.knsrc/api.kde-look.org/1361442"
     ]
