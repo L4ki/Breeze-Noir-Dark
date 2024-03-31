@@ -42,6 +42,11 @@ Changelog: 31.03..2024.
 Plasma Theme
 -------------
 
+Redesigned theme
+
+Global Theme
+------------
+
 Added Global Theme For Plasma 6
 
 
