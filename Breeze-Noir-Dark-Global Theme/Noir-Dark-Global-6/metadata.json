@@ -1,0 +1,33 @@
+{
+    "KPackageStructure": "Plasma/LookAndFeel",
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "l4k1987@gmail.com",
+                "Name": "l4k1"
+            }
+        ],
+        "Category": "Global Themes (Plasma 6)",
+        "ServiceTypes": [
+            "Plasma/LookAndFeel"
+        ],
+        "EnabledByDefault": true,
+        "Name": "Noir-Dark-Global-6",
+        "Description": "Noir-Dark Global Theme by l4k1",
+        "Id": "Noir-Dark-Global-6",
+        "Version": "1.0",
+        "License": "GPLv3",
+        "Website": "https://github.com/L4ki/Noir-Plasma-Themes"
+    },
+    "X-KPackage-Dependencies": [
+        "kns://window-decorations.knsrc/api.kde-look.org/2133854",
+        "kns://colorschemes.knsrc/api.kde-look.org/1361466",
+        "kns://colorschemes.knsrc/api.kde-look.org/1411469",
+        "kns://icons.knsrc/api.kde-look.org/1361468",
+        "kns://icons.knsrc/api.kde-look.org/1361471",
+        "kns://plasma-themes.knsrc/api.kde-look.org/1361472",
+        "kns://sddmtheme.knsrc/api.kde-look.org/2139968",
+        "kns://wallpaper.knsrc/api.kde-look.org/1355286",
+        "kns://wallpaper.knsrc/api.kde-look.org/1361442"
+    ]
+}
