@@ -6,7 +6,7 @@
    height="98"
    id="svg3642"
    sodipodi:version="0.32"
-   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25)"
    sodipodi:docname="scrollbar.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
    version="1.0"
@@ -29,14 +29,14 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="5.6568545"
-     inkscape:cx="26.16295"
-     inkscape:cy="40.039919"
+     inkscape:cx="13.965358"
+     inkscape:cy="52.679453"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:grid-bbox="true"
      inkscape:document-units="px"
      inkscape:window-width="1920"
-     inkscape:window-height="1005"
+     inkscape:window-height="995"
      inkscape:window-x="0"
      inkscape:window-y="0"
      width="48px"
@@ -55,16 +55,21 @@
      inkscape:showpageshadow="2"
      inkscape:deskcolor="#eff0f1">
     <inkscape:grid
-       visible="true"
+       visible="false"
        enabled="true"
        id="grid2555"
        type="xygrid"
        empspacing="5"
        snapvisiblegridlinesonly="true"
        color="#0000ff"
-       opacity="0.55294118"
+       opacity="0.552941"
        empcolor="#0000ff"
-       empopacity="0.31764706" />
+       empopacity="0.31764706"
+       originx="0"
+       originy="0"
+       spacingy="1"
+       spacingx="1"
+       units="px" />
   </sodipodi:namedview>
   <defs
      id="defs3644">
@@ -94,7 +99,7 @@
      inkscape:label="Layer 1"
      id="layer1">
     <rect
-       style="stroke:none;fill-rule:evenodd;fill-opacity:0.75294119;fill:#006a80;opacity:1"
+       style="stroke:none;fill-rule:evenodd;fill-opacity:0.40000001;fill:#a6cdd8;opacity:1"
        id="slider-center"
        width="1"
        height="10"
@@ -622,7 +627,7 @@
     <g
        id="slider-topleft">
       <path
-         style="stroke-width:0.75;stroke:none;fill-rule:evenodd;fill-opacity:0.75294119;fill:#006a80;opacity:1"
+         style="stroke-width:0.75;stroke:none;fill-rule:evenodd;fill-opacity:0.40000001;fill:#a6cdd8;opacity:1"
          d="m 12.000001,10.000002 v 3 h -3 C 9,11 10,10 12.000001,10.000002 Z"
          id="path3895"
          inkscape:connector-curvature="0"
@@ -642,7 +647,7 @@
       <path
          id="rect3840"
          d="m 14.999993,10.000002 v 3 h 3 C 18,11 17,10 14.999993,10.000002 Z"
-         style="stroke-width:0.75;stroke:none;fill-rule:evenodd;fill-opacity:0.75294119;fill:#006a80;opacity:1"
+         style="stroke-width:0.75;stroke:none;fill-rule:evenodd;fill-opacity:0.40000001;fill:#a6cdd8;opacity:1"
          inkscape:connector-curvature="0"
          class="ColorScheme-Text  ColorScheme-Highlight"
          sodipodi:nodetypes="cccc" />
@@ -656,7 +661,7 @@
     <g
        id="slider-left">
       <path
-         style="stroke-width:0.866025;stroke:none;fill-rule:evenodd;fill-opacity:0.75140542;fill:#006a80;opacity:1"
+         style="stroke-width:0.866025;stroke:none;fill-rule:evenodd;fill-opacity:0.40000001;fill:#a6cdd8;opacity:1"
          d="m 12.000001,14.000002 v 9.999999 h -3 v -9.999999 z"
          id="path3891"
          inkscape:connector-curvature="0"
@@ -676,7 +681,7 @@
       <path
          id="rect3838"
          d="m 14.999993,14.000002 v 9.999999 h 3 v -9.999999 z"
-         style="stroke-width:0.866025;stroke:none;fill-rule:evenodd;fill-opacity:0.75294119;fill:#006a80;opacity:1"
+         style="stroke-width:0.866025;stroke:none;fill-rule:evenodd;fill-opacity:0.40000001;fill:#a6cdd8;opacity:1"
          inkscape:connector-curvature="0"
          class="ColorScheme-Text  ColorScheme-Highlight" />
       <rect
@@ -694,7 +699,7 @@
       <path
          id="path3901"
          d="m 12.000001,28 v -3 h -3 c -10e-7,2 0.999999,3 3,3 z"
-         style="stroke-width:0.75;stroke:none;fill-rule:evenodd;fill-opacity:0.75294119;fill:#006a80;opacity:1"
+         style="stroke-width:0.75;stroke:none;fill-rule:evenodd;fill-opacity:0.40000001;fill:#a6cdd8;opacity:1"
          inkscape:connector-curvature="0"
          class="ColorScheme-Text  ColorScheme-Highlight"
          sodipodi:nodetypes="cccc" />
@@ -709,7 +714,7 @@
        id="slider-bottomright">
       <path
          inkscape:connector-curvature="0"
-         style="stroke-width:0.75;stroke:none;fill-rule:evenodd;fill-opacity:0.75294119;fill:#006a80;opacity:1"
+         style="stroke-width:0.75;stroke:none;fill-rule:evenodd;fill-opacity:0.40000001;fill:#a6cdd8;opacity:1"
          d="m 14.999993,28 v -3 h 3 c 7e-6,2 -0.999993,3 -3,3 z"
          id="path3871"
          class="ColorScheme-Text  ColorScheme-Highlight"
@@ -946,7 +951,7 @@
          inkscape:connector-curvature="0"
          id="path3909"
          d="m 14.000001,13 h -1 v -3 h 1 z"
-         style="opacity:1;fill:#006a80;fill-opacity:0.75294119;fill-rule:evenodd;stroke:none;stroke-width:0.273861"
+         style="opacity:1;fill:#a6cdd8;fill-opacity:0.40000001;fill-rule:evenodd;stroke:none;stroke-width:0.273861"
          class="ColorScheme-Text  ColorScheme-Highlight" />
       <path
          class="ColorScheme-ButtonFocus"
@@ -958,7 +963,7 @@
     <g
        id="slider-bottom">
       <path
-         style="opacity:1;fill:#006a80;fill-opacity:0.75294119;fill-rule:evenodd;stroke:none;stroke-width:0.273861"
+         style="opacity:1;fill:#a6cdd8;fill-opacity:0.40000001;fill-rule:evenodd;stroke:none;stroke-width:0.273861"
          d="m 14.000001,25 h -1 v 3 h 1 z"
          id="path3915"
          inkscape:connector-curvature="0"
