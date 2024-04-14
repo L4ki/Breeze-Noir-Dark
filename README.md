@@ -36,18 +36,15 @@ Screenshots:
 _______________________________________________________________________________________________________________
 
 
-Changelog: 07.04..2024.
+Changelog: 14.04..2024.
 ----------------------
 
 Plasma Theme
 -------------
 
-Update widget: tasks.svg
+Update: metadata.desktop
 
-Global Theme
-------------
 
-Added Global Theme For Plasma 6
 
 
 
