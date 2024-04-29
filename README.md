@@ -36,10 +36,15 @@ Screenshots:
 _______________________________________________________________________________________________________________
 
 
-Changelog: 21.04..2024.
+Changelog: 29.04..2024.
 ----------------------
 
 Plasma Theme
+-------------
+
+Update widget: button.svg
+
+Aurorae Theme
 -------------
 
 Update: metadata.desktop
