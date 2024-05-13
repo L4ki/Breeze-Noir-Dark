@@ -36,13 +36,13 @@ Screenshots:
 _______________________________________________________________________________________________________________
 
 
-Changelog: 06.05..2024.
+Changelog: 13.05..2024.
 ----------------------
 
 Plasma Theme
 -------------
 
-Update widget: action-overlays.svg
+Update widget: actionbutton.svg
 
 Aurorae Theme
 -------------
