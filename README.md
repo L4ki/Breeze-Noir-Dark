@@ -36,13 +36,13 @@ Screenshots:
 _______________________________________________________________________________________________________________
 
 
-Changelog: 28.05..2024.
+Changelog: 04.06..2024.
 ----------------------
 
 Plasma Theme
 -------------
 
-Update widget: slider.svg
+Update widget: scrollbar.svg
 
 Aurorae Theme
 -------------
