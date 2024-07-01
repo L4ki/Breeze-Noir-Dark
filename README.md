@@ -36,13 +36,13 @@ Screenshots:
 _______________________________________________________________________________________________________________
 
 
-Changelog: 24.06..2024.
+Changelog: 01.07..2024.
 ----------------------
 
 Plasma Theme
 -------------
 
-Update widget: arrows.svg
+Update widget: bar_meter_horizontal.svg
 
 Aurorae Theme
 -------------
