@@ -13,7 +13,9 @@
    version="1.1"
    viewBox="0 0 30 30"
    sodipodi:docname="bar_meter_vertical.svg"
-   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
+  <style
+     id="style851"></style>
   <metadata
      id="metadata29">
     <rdf:RDF>
@@ -22,14 +24,15 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <defs
      id="defs27" />
   <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
+     pagecolor="#cccccc"
+     bordercolor="#000000"
      borderopacity="1"
      objecttolerance="10"
      gridtolerance="10"
@@ -37,17 +40,18 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1015"
+     inkscape:window-height="988"
      id="namedview25"
      showgrid="false"
-     inkscape:zoom="17.434602"
-     inkscape:cx="1.1228315"
-     inkscape:cy="12.673642"
+     inkscape:zoom="14.80136"
+     inkscape:cx="9.5230172"
+     inkscape:cy="16.590944"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg2"
-     inkscape:lockguides="true" />
+     inkscape:lockguides="true"
+     inkscape:document-rotation="0" />
   <rect
      id="hint-tile-center"
      width="1"
