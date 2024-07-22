@@ -37,8 +37,8 @@
      pagecolor="#ffffff"
      id="base"
      inkscape:zoom="4"
-     inkscape:cx="48.25"
-     inkscape:cy="48.125"
+     inkscape:cx="67.5"
+     inkscape:cy="47.875"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:current-layer="svg2"
@@ -6338,22 +6338,16 @@
        id="separator1" />
   </g>
   <g
-     id="g2549"
-     transform="translate(0,10)"
-     style="fill:#00597c;fill-opacity:0.1">
-    <g
-       id="hover-center"
-       style="fill:#00597c;fill-opacity:0.1">
-      <rect
-         style="color:#565d8a;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#00597c;fill-opacity:0.1;fill-rule:nonzero;stroke:none;stroke-width:1.4;marker:none;enable-background:accumulate;stop-color:#565d8a"
-         id="section-center-1"
-         width="6"
-         height="6"
-         x="92.000008"
-         y="19.000044"
-         inkscape:label="#section-center"
-         class="ColorScheme-Highlight" />
-    </g>
+     id="hover-center">
+    <rect
+       style="color:#565d8a;display:inline;overflow:visible;visibility:visible;fill:#00597c;fill-opacity:0.1;fill-rule:nonzero;stroke:none;stroke-width:1.4;marker:none;enable-background:accumulate;stop-color:#565d8a"
+       id="section-center-1"
+       width="6"
+       height="6"
+       x="92.000008"
+       y="29.000044"
+       inkscape:label="#section-center"
+       class="ColorScheme-Highlight" />
   </g>
   <g
      id="hover-top"
@@ -6376,7 +6370,7 @@
        class="ColorScheme-Highlight" />
   </g>
   <g
-     id="hover-lrft">
+     id="hover-left">
     <rect
        y="28.999992"
        x="83.000008"
