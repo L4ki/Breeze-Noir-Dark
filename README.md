@@ -36,13 +36,13 @@ Screenshots:
 _______________________________________________________________________________________________________________
 
 
-Changelog: 12.08.2024.
+Changelog: 19.08.2024.
 ----------------------
 
 Plasma Theme
 -------------
 
-Update widget: viewitem.svg
+Update widget: containment-controls.svg
 
 Aurorae Theme
 -------------
