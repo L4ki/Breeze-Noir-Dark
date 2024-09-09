@@ -36,13 +36,13 @@ Screenshots:
 _______________________________________________________________________________________________________________
 
 
-Changelog: 02.09.2024.
+Changelog: 09.09.2024.
 ----------------------
 
 Plasma Theme
 -------------
 
-Update widget: panel-bacground.svg
+Update widget: tooltip.svg
 
 Aurorae Theme
 -------------
