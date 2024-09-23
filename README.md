@@ -36,13 +36,13 @@ Screenshots:
 _______________________________________________________________________________________________________________
 
 
-Changelog: 16.09.2024.
+Changelog: 23.09.2024.
 ----------------------
 
 Plasma Theme
 -------------
 
-Update widget: plasmoidheading.svg
+Update widget: radiobutton.svg
 
 Aurorae Theme
 -------------
