@@ -36,13 +36,13 @@ Screenshots:
 _______________________________________________________________________________________________________________
 
 
-Changelog: 23.09.2024.
+Changelog: 30.09.2024.
 ----------------------
 
 Plasma Theme
 -------------
 
-Update widget: radiobutton.svg
+Update widget: switch.svg
 
 Aurorae Theme
 -------------
