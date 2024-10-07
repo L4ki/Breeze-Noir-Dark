@@ -36,13 +36,13 @@ Screenshots:
 _______________________________________________________________________________________________________________
 
 
-Changelog: 30.09.2024.
+Changelog: 07.10.2024.
 ----------------------
 
 Plasma Theme
 -------------
 
-Update widget: switch.svg
+Update widget: checkmarks.svg
 
 Aurorae Theme
 -------------
