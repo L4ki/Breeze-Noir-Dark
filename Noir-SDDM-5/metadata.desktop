@@ -1,0 +1,14 @@
+[SddmGreeterTheme]
+Name=Noir-SDDM-5
+Description=Noir-SDDM-5  For Plasma 5
+Copyright=(c) 2022, l4k1
+License=GPLv. 3+
+Type=sddm-theme
+Version=1.0
+Screenshot=preview.png
+MainScript=Main.qml
+ConfigFile=theme.conf
+TranslationsDirectory=translations
+Email=l4k1987@gmail.com
+Theme-Id=Noir-SDDM-5
+Theme-API=2.0
