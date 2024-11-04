@@ -42,7 +42,7 @@ Changelog: 04.11.2024.
 Plasma Theme
 -------------
 
-Update widget: scrollwidget.svg
+Update widget: tabbar.svg
 
 
 
