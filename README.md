@@ -36,7 +36,7 @@ Screenshots:
 _______________________________________________________________________________________________________________
 
 
-Changelog: 28.10.2024.
+Changelog: 04.11.2024.
 ----------------------
 
 Plasma Theme
@@ -44,10 +44,7 @@ Plasma Theme
 
 Update widget: scrollwidget.svg
 
-Aurorae Theme
--------------
 
-Update: metadata.desktop
 
 
 
