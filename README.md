@@ -36,13 +36,13 @@ Screenshots:
 _______________________________________________________________________________________________________________
 
 
-Changelog: 11.11.2024.
+Changelog: 18.11.2024.
 ----------------------
 
 Plasma Theme
 -------------
 
-Update widget: lineedit.svg
+Update widget: translucentbackground.svg
 
 
 
