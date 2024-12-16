@@ -36,13 +36,13 @@ Screenshots:
 _______________________________________________________________________________________________________________
 
 
-Changelog: 09.12.2024.
+Changelog: 16.12.2024.
 ----------------------
 
 Plasma Theme
 -------------
 
-Update widget: clock.svg
+Update widget: plot-background.svg
 
 
 
