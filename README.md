@@ -36,13 +36,13 @@ Screenshots:
 _______________________________________________________________________________________________________________
 
 
-Changelog: 16.12.2024.
+Changelog: 23.12.2024.
 ----------------------
 
 Plasma Theme
 -------------
 
-Update widget: plot-background.svg
+Update widget: picker.svg
 
 
 
