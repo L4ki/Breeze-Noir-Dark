@@ -36,13 +36,13 @@ Screenshots:
 _______________________________________________________________________________________________________________
 
 
-Changelog: 06.01.2025.
+Changelog: 07.01.2025.
 ----------------------
 
 Plasma Theme
 -------------
 
-Update widget: picker.svg
+Update widget: busywidget.svg
 
 
 
