@@ -36,17 +36,13 @@ Screenshots:
 _______________________________________________________________________________________________________________
 
 
-Changelog: 28.01.2025.
+Changelog: 04.02.2025.
 ----------------------
 
 Plasma Theme
 -------------
 
-Update widget: busywidget.svg
-
-
-
-
+Update: metadata.desktop
 
 
 
