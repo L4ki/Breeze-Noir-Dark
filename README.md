@@ -36,14 +36,12 @@ Screenshots:
 _______________________________________________________________________________________________________________
 
 
-Changelog: 03.06.2025.
+Changelog: 10.06.2025.
 ----------------------
 
 Plasma Theme
 -------------
 
-Update: metadata.desktop
-
-
+Update widget: menubaritem.svg
 
 
