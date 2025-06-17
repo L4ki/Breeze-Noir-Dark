@@ -1,0 +1,19 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "l4k1987@gmail.com",
+                "Name": "l4k1"
+            }
+        ],
+        "Category": "",
+        "Description": "Breeze-Noir-Dark Plasma Theme",
+        "EnabledByDefault": true,
+        "Id": "Breeze-Noir-Dark",
+        "License": "GPLv3",
+        "Name": "Breeze-Noir-Dark",
+        "Version": "1.1",
+        "Website": "https://github.com/L4ki/Breeze-Noir-Dark"
+    },
+    "X-Plasma-API": "5.0"
+}

@@ -4,22 +4,11 @@ Comment=Breeze-Noir-Dark Plasma Theme
 X-KDE-PluginInfo-Author=l4k1
 X-KDE-PluginInfo-Email=l4k1987@gmail.com
 X-KDE-PluginInfo-Name=Breeze-Noir-Dark
-X-KDE-PluginInfo-Version=24.2
+X-KDE-PluginInfo-Version=24.4
 X-KDE-PluginInfo-Website=https://github.com/L4ki/Breeze-Noir-Dark
 X-KDE-PluginInfo-Category=Plasma Theme
-X-KDE-PluginInfo-Depends=
 X-KDE-PluginInfo-License=GPLv3
 X-KDE-PluginInfo-EnabledByDefault=true
 X-Plasma-API=5.0
 
-[AdaptiveTransparency]
-enabled=true
 
-[BlurBehindEffect]
-enabled=true
-
-[ContrastEffect]
-enabled=false
-contrast=0.4
-intensity=0.6
-saturation=8
